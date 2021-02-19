@@ -6,7 +6,7 @@ excerpt: 'DOI: 10.1109/ICSM.2004.1357823, Scopus ID: 2-s2.0-18044381923, Cited b
 date: 2004-01-01
 venue: 'In the proceedings of 20th International Conference on Software Maintenance (ICSM 2004), 11-17 September 2004, Chicago, IL, USA'
 paperurl: 'https://doi.org/10.1109/ICSM.2004.1357823'
-citation: ' Lionel Briand,  Yvan Labiche,  H.{-}D. Yan,  Massimiliano Di, &quot;A Controlled Experiment on the Impact of the Object Constraint Language in UML-Based Maintenance.&quot; In the proceedings of 20th International Conference on Software Maintenance (ICSM 2004), 11-17 September 2004, Chicago, IL, USA, 2004.'
+citation: ' Lionel Briand,  Yvan Labiche,  H.-D. Yan,  Massimiliano Di, &quot;A Controlled Experiment on the Impact of the Object Constraint Language in UML-Based Maintenance.&quot; In the proceedings of 20th International Conference on Software Maintenance (ICSM 2004), 11-17 September 2004, Chicago, IL, USA, 2004.'
 ---
 DOI: 10.1109/ICSM.2004.1357823, Scopus ID: 2-s2.0-18044381923, Cited by: 16
 
