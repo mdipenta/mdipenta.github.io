@@ -27,7 +27,7 @@ I then spent most of my academic career at the [University of Sannio](https://ww
 * **Phone:** +39 0824 305536
 * **E-mail:** dipenta at unisannio dot it
 * **Institutional web page:** [https://www.unisannio.it/en/user/484/curriculum](https://www.unisannio.it/en/user/484/curriculum)
-* **DBLP page: **[https://dblp.org/pid/d/MassimilianoDiPenta.html](https://dblp.org/pid/d/MassimilianoDiPenta.html)
+* **DBLP page:** [https://dblp.org/pid/d/MassimilianoDiPenta.html](https://dblp.org/pid/d/MassimilianoDiPenta.html)
 * **Scopus:** [https://www.scopus.com/authid/detail.uri?authorId=6602794138](https://www.scopus.com/authid/detail.uri?authorId=6602794138)
-* **Google Scholar: **[https://scholar.google.com/citations?user=j6ucyOAAAAAJ&hl=it](https://scholar.google.com/citations?user=j6ucyOAAAAAJ&hl=it)
+* **Google Scholar:** [https://scholar.google.com/citations?user=j6ucyOAAAAAJ&hl=it](https://scholar.google.com/citations?user=j6ucyOAAAAAJ&hl=it)
 
