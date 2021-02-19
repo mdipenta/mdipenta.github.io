@@ -14,7 +14,7 @@ I received the Ph.D. in computer engineering in July 2003, under the supervision
 I then spent most of my academic career at the [University of Sannio](https://www.unisannio.it), as assistant professor (2004-2011), associate professor (2011-2019), and full professor (2019-).
 
 
-### My main research interests:
+## My main research interests:
 * Software maintenance and evolution
 * Mining software repositories
 * Empirical software engineering
@@ -22,7 +22,7 @@ I then spent most of my academic career at the [University of Sannio](https://ww
 * Search-based software engineering
 * Software testing
 
-### Contact and links:
+## Contact and links:
 * **Office:** Via Traiano, 9 - 82100 Benevento (Italy)
 * **Phone:** +39 0824 305536
 * **E-mail:** dipenta at unisannio dot it
