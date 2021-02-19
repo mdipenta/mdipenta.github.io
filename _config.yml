@@ -83,8 +83,8 @@ author:
   name             : "Massimiliano Di Penta"
   avatar           : "dipenta.png"
   bio              : "Professor"
-  employer         : "https://www.unisannio.it"
-  location         : Benevento, Italy
+  employer         : "University of Sannio, Italy"
+  location         : #Benevento, Italy
   pubmed           : "https://publons.com/researcher/1219978/massimiliano-di-penta/"
   googlescholar    : "https://scholar.google.com/citations?user=j6ucyOAAAAAJ#"
   email            :  "dipenta@unisannio.it"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/massimiliano.penta.3"
   foursquare       :
   github           : "mdipenta"
   google_plus      :
