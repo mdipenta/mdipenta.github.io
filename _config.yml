@@ -92,7 +92,7 @@ author:
   uri              : 
   bitbucket        :
   codepen          :
-  dribbble         :
+  dribbble         : "https://ddd"
   flickr           :
   facebook         : "https://www.facebook.com/massimiliano.penta.3"
   foursquare       :
@@ -105,9 +105,9 @@ author:
   linkedin         : "https://www.linkedin.com/in/massimiliano-di-penta-a362214"
   orcid            : "https://orcid.org/0000-0002-0340-9747"
   pinterest        :
-  soundcloud       :
+  soundcloud       : "https://sss"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "https://sss"
   tumblr           :
   twitter          : "mdipenta"
   vine             :
