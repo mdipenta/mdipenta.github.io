@@ -8,6 +8,6 @@ venue: 'In the proceedings of 35th International Conference on Software Engineer
 paperurl: 'https://doi.org/10.1109/ICSE.2013.6606615'
 citation: ' Gabriele Bavota,  Bogdan Dit,  Rocco Oliveto,  Massimiliano Di,  Denys Poshyvanyk,  Andrea De, &quot;An empirical study on the developers&amp;apos; perception of software coupling.&quot; In the proceedings of 35th International Conference on Software Engineering, ICSE &amp;apos;13, San Francisco, CA, USA, May 18-26, 2013, 2013.'
 ---
-DOI: 10.1109/ICSE.2013.6606615, Scopus ID: 2-s2.0-84886384362, Cited by: 68
+[Bibtex](https://dblp.org/rec/bib/conf/icse/BavotaDOPPL13)
 
 [Access paper here](https://doi.org/10.1109/ICSE.2013.6606615){:target="_blank"}

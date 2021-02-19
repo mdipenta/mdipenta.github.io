@@ -8,6 +8,6 @@ venue: 'In the proceedings of Proceedings of the Eighth Working Conference on Re
 paperurl: 'https://doi.org/10.1109/WCRE.2001.957827'
 citation: ' Giuseppe Di,  Massimiliano Di,  Giuliano Antoniol,  Gerardo Casazza, &quot;An Approach for Reverse Engineering of Web-Based Applications.&quot; In the proceedings of Proceedings of the Eighth Working Conference on Reverse Engineering, WCRE&amp;apos;01, Stuttgart, Germany, October 2-5, 2001, 2001.'
 ---
-DOI: 10.1109/WCRE.2001.957827, Scopus ID: 2-s2.0-0034780666, Cited by: 40
+[Bibtex](https://dblp.org/rec/bib/conf/wcre/LuccaPAC01)
 
 [Access paper here](https://doi.org/10.1109/WCRE.2001.957827){:target="_blank"}

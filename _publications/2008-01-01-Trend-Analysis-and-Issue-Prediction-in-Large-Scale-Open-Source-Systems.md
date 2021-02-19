@@ -8,6 +8,6 @@ venue: 'In the proceedings of 12th European Conference on Software Maintenance a
 paperurl: 'https://doi.org/10.1109/CSMR.2008.4493302'
 citation: ' B&apos;en&apos;edicte Kenmei,  Giuliano Antoniol,  Massimiliano Di, &quot;Trend Analysis and Issue Prediction in Large-Scale Open Source Systems.&quot; In the proceedings of 12th European Conference on Software Maintenance and Reengineering, CSMR 2008, April 1-4, 2008, Athens, Greece, 2008.'
 ---
-DOI: 10.1109/CSMR.2008.4493302, Scopus ID: 2-s2.0-50249136135, Cited by: 22
+[Bibtex](https://dblp.org/rec/bib/conf/csmr/KenmeiAP08)
 
 [Access paper here](https://doi.org/10.1109/CSMR.2008.4493302){:target="_blank"}

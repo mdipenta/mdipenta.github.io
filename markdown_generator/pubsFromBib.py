@@ -142,8 +142,13 @@ for pubsource in publist:
 
             
             ## Markdown description for individual page
-            if note:
-                md += "\n" + html_escape(b["note"]) + "\n"
+            #if note:
+            #    md += "\n" + html_escape(b["note"]) + "\n"
+
+            if "biburl" in b.keys():
+                btex=b["biburl"]
+            if btex:
+                md+="\n[Bibtex]("+btex+")\n"    
 
             if url:
                 md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 

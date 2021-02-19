@@ -8,6 +8,6 @@ venue: 'In the proceedings of International ICSE Workshop on Principles of Engin
 paperurl: 'https://doi.org/10.1109/PESOS.2009.5068819'
 citation: ' Gerardo Canfora,  Massimiliano Di,  Pierpaolo Lombardi,  Maria Villani, &quot;Dynamic composition of web applications in human-centered processes.&quot; In the proceedings of International ICSE Workshop on Principles of Engineering Service-Oriented Systems, PESOS 2009, 18-19 May 2009, Vancouver, BC, Canada, 2009.'
 ---
-DOI: 10.1109/PESOS.2009.5068819, Scopus ID: 2-s2.0-70349914379, Cited by: 2
+[Bibtex](https://dblp.org/rec/bib/conf/icse/CanforaPLV09)
 
 [Access paper here](https://doi.org/10.1109/PESOS.2009.5068819){:target="_blank"}

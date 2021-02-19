@@ -8,6 +8,6 @@ venue: 'In the proceedings of 2017 IEEE International Conference on Software Mai
 paperurl: 'https://doi.org/10.1109/ICSME.2017.44'
 citation: ' Fiorella Zampetti,  Cedric Noiseux,  Giuliano Antoniol,  Foutse Khomh,  Massimiliano Di, &quot;Recommending when Design Technical Debt Should be Self-Admitted.&quot; In the proceedings of 2017 IEEE International Conference on Software Maintenance and Evolution, ICSME 2017, Shanghai, China, September 17-22, 2017, 2017.'
 ---
-DOI: 10.1109/ICSME.2017.44, Scopus ID: 2-s2.0-85040591802, Cited by: 7
+[Bibtex](https://dblp.org/rec/bib/conf/icsm/ZampettiNAKP17)
 
 [Access paper here](https://doi.org/10.1109/ICSME.2017.44){:target="_blank"}

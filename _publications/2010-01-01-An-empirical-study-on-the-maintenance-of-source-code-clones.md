@@ -8,6 +8,6 @@ venue: 'Empirical Software Engineering'
 paperurl: 'https://doi.org/10.1007/s10664-009-9108-x'
 citation: ' Suresh Thummalapenta,  Luigi Cerulo,  Lerina Aversano,  Massimiliano Di, &quot;An empirical study on the maintenance of source code clones.&quot; Empirical Software Engineering, 2010.'
 ---
-Springer, New York, USA, Scopus ID: 2-s2.0-76749101150, Cited by: 105
+[Bibtex](https://dblp.org/rec/bib/journals/ese/ThummalapentaCAP10)
 
 [Access paper here](https://doi.org/10.1007/s10664-009-9108-x){:target="_blank"}

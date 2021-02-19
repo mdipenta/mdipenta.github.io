@@ -8,6 +8,6 @@ venue: 'In the proceedings of 22nd IEEE International Conference on Software Ana
 paperurl: 'https://doi.org/10.1109/SANER.2015.7081826'
 citation: ' Sebastiano Panichella,  Venera Arnaoudova,  Massimiliano Di,  Giuliano Antoniol, &quot;Would static analysis tools help developers with code reviews?.&quot; In the proceedings of 22nd IEEE International Conference on Software Analysis, Evolution, and Reengineering, SANER 2015, Montreal, QC, Canada, March 2-6, 2015, 2015.'
 ---
-DOI: 10.1109/SANER.2015.7081826, Scopus ID: 2-s2.0-84928675099, Cited by: 21
+[Bibtex](https://dblp.org/rec/bib/conf/wcre/PanichellaAPA15)
 
 [Access paper here](https://doi.org/10.1109/SANER.2015.7081826){:target="_blank"}

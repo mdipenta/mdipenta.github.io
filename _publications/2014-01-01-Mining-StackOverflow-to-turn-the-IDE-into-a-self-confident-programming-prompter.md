@@ -8,6 +8,6 @@ venue: 'In the proceedings of 11th Working Conference on Mining Software Reposit
 paperurl: 'https://doi.org/10.1145/2597073.2597077'
 citation: ' Luca Ponzanelli,  Gabriele Bavota,  Massimiliano Di,  Rocco Oliveto,  Michele Lanza, &quot;Mining StackOverflow to turn the IDE into a self-confident programming prompter.&quot; In the proceedings of 11th Working Conference on Mining Software Repositories, MSR 2014, Proceedings, May 31 - June 1, 2014, Hyderabad, India, 2014.'
 ---
-DOI: 10.1145/2597073.2597077, Scopus ID: 2-s2.0-84912116003, Cited by: 105
+[Bibtex](https://dblp.org/rec/bib/conf/msr/PonzanelliBPOL14)
 
 [Access paper here](https://doi.org/10.1145/2597073.2597077){:target="_blank"}

@@ -8,6 +8,6 @@ venue: 'In the proceedings of 4th IEEE/ACM International Conference on Mobile So
 paperurl: 'https://doi.org/10.1109/MOBILESoft.2017.22'
 citation: ' Majda Moussa,  Massimiliano Di,  Giuliano Antoniol,  Giovanni Beltrame, &quot;ACCUSE: Helping Users to Minimize Android App Privacy Concerns.&quot; In the proceedings of 4th IEEE/ACM International Conference on Mobile Software Engineering and Systems, MOBILESoft@ICSE 2017, Buenos Aires, Argentina, May 22-23, 2017, 2017.'
 ---
-DOI: 10.1109/MOBILESoft.2017.22, Scopus ID: 2-s2.0-85027025473, Cited by: 1
+[Bibtex](https://dblp.org/rec/bib/conf/icse/MoussaPAB17)
 
 [Access paper here](https://doi.org/10.1109/MOBILESoft.2017.22){:target="_blank"}

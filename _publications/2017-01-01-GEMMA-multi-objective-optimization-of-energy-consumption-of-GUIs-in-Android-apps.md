@@ -8,6 +8,6 @@ venue: 'In the proceedings of Proceedings of the 39th International Conference o
 paperurl: 'https://doi.org/10.1109/ICSE-C.2017.10'
 citation: ' Mario V&apos;asquez,  Carlos Bernal-C&apos;ardenas,  Gabriele Bavota,  Rocco Oliveto,  Massimiliano Di,  Denys Poshyvanyk, &quot;GEMMA: multi-objective optimization of energy consumption of GUIs in Android apps.&quot; In the proceedings of Proceedings of the 39th International Conference on Software Engineering, ICSE 2017, Buenos Aires, Argentina, May 20-28, 2017 - Companion Volume, 2017.'
 ---
-DOI: 10.1109/ICSE-C.2017.10, Scopus ID: 2-s2.0-85026730591, Cited by: 5
+[Bibtex](https://dblp.org/rec/bib/conf/icse/VasquezBBOPP17)
 
 [Access paper here](https://doi.org/10.1109/ICSE-C.2017.10){:target="_blank"}

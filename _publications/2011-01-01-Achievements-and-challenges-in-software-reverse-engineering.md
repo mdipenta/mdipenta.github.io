@@ -8,6 +8,6 @@ venue: 'Commun. ACM'
 paperurl: 'https://doi.org/10.1145/1924421.1924451'
 citation: ' Gerardo Canfora,  Massimiliano Di,  Luigi Cerulo, &quot;Achievements and challenges in software reverse engineering.&quot; Commun. ACM, 2011.'
 ---
-Association for Computer Machinery (ACM), New York, USA, Scopus ID: 2-s2.0-79953667658, Cited by: 74
+[Bibtex](https://dblp.org/rec/bib/journals/cacm/CanforaPC11)
 
 [Access paper here](https://doi.org/10.1145/1924421.1924451){:target="_blank"}

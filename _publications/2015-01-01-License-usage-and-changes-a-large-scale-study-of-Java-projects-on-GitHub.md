@@ -8,6 +8,6 @@ venue: 'In the proceedings of Proceedings of the 2015 IEEE 23rd International Co
 paperurl: 'https://doi.org/10.1109/ICPC.2015.32'
 citation: ' Christopher Vendome,  Mario V&apos;asquez,  Gabriele Bavota,  Massimiliano Di,  Daniel Germ&apos;an,  Denys Poshyvanyk, &quot;License usage and changes: a large-scale study of Java projects on GitHub.&quot; In the proceedings of Proceedings of the 2015 IEEE 23rd International Conference on Program Comprehension, ICPC 2015, Florence/Firenze, Italy, May 16-24, 2015, 2015.'
 ---
-DOI: 10.1109/ICPC.2015.32, Scopus ID: 2-s2.0-84988267541, Cited by: 16
+[Bibtex](https://dblp.org/rec/bib/conf/iwpc/VendomeLBPGP15)
 
 [Access paper here](https://doi.org/10.1109/ICPC.2015.32){:target="_blank"}

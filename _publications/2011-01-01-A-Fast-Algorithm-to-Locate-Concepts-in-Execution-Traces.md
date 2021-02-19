@@ -8,6 +8,6 @@ venue: 'In the proceedings of Search Based Software Engineering - Third Internat
 paperurl: 'https://doi.org/10.1007/978-3-642-23716-4\_22'
 citation: ' Soumaya Medini,  Philippe Galinier,  Massimiliano Di,  Yann-Ga&quot;el Gu&apos;eh&apos;eneuc,  Giuliano Antoniol, &quot;A Fast Algorithm to Locate Concepts in Execution Traces.&quot; In the proceedings of Search Based Software Engineering - Third International Symposium, SSBSE 2011, Szeged, Hungary, September 10-12, 2011. Proceedings, 2011.'
 ---
-DOI: 10.1007/978-3-642-23716-4\_22, Scopus ID: 2-s2.0-80052876580, Cited by: 8
+[Bibtex](https://dblp.org/rec/bib/conf/ssbse/MediniGPGA11)
 
 [Access paper here](https://doi.org/10.1007/978-3-642-23716-4\_22){:target="_blank"}

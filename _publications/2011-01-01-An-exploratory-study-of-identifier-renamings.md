@@ -8,6 +8,6 @@ venue: 'In the proceedings of Proceedings of the 8th International Working Confe
 paperurl: 'https://doi.org/10.1145/1985441.1985449'
 citation: ' Laleh Eshkevari,  Venera Arnaoudova,  Massimiliano Di,  Rocco Oliveto,  Yann-Ga&quot;el Gu&apos;eh&apos;eneuc,  Giuliano Antoniol, &quot;An exploratory study of identifier renamings.&quot; In the proceedings of Proceedings of the 8th International Working Conference on Mining Software Repositories, MSR 2011 (Co-located with ICSE), Waikiki, Honolulu, HI, USA, May 21-28, 2011, Proceedings, 2011.'
 ---
-DOI: 10.1145/1985441.1985449, Scopus ID: 2-s2.0-79959236933, Cited by: 11
+[Bibtex](https://dblp.org/rec/bib/conf/msr/EshkevariAPOGA11)
 
 [Access paper here](https://doi.org/10.1145/1985441.1985449){:target="_blank"}

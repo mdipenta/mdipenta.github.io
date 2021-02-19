@@ -8,6 +8,6 @@ venue: 'In the proceedings of 10th IEEE International Software Metrics Symposium
 paperurl: 'https://doi.org/10.1109/METRIC.2004.1357901'
 citation: ' Giuliano Antoniol,  Massimiliano Di,  Mark Harman, &quot;A Robust Search-Based Approach to Project Management in the Presence of Abandonment, Rework, Error and Uncertainty.&quot; In the proceedings of 10th IEEE International Software Metrics Symposium (METRICS 2004), 11-17 September 2004, Chicago, IL, USA, 2004.'
 ---
-DOI: 10.1109/METRIC.2004.1357901, Scopus ID: 2-s2.0-14844331782, Cited by: 38
+[Bibtex](https://dblp.org/rec/bib/conf/metrics/AntoniolPH04)
 
 [Access paper here](https://doi.org/10.1109/METRIC.2004.1357901){:target="_blank"}

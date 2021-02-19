@@ -8,6 +8,6 @@ venue: 'Information &amp; Software Technology'
 paperurl: 'https://doi.org/10.1016/j.infsof.2018.02.004'
 citation: ' Fabio Palomba,  Gabriele Bavota,  Massimiliano Di,  Fausto Fasano,  Rocco Oliveto,  Andrea De, &quot;A large-scale empirical study on the lifecycle of code smell co-occurrences.&quot; Information &amp;amp; Software Technology, 2018.'
 ---
-Springer, New York, USA, Scopus ID: 2-s2.0-85042941931, Cited by: 13
+[Bibtex](https://dblp.org/rec/bib/journals/infsof/PalombaBPFOL18)
 
 [Access paper here](https://doi.org/10.1016/j.infsof.2018.02.004){:target="_blank"}

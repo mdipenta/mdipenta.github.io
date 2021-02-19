@@ -8,6 +8,6 @@ venue: 'In the proceedings of 8th International Workshop on Principles of Softwa
 paperurl: 'https://doi.org/10.1109/IWPSE.2005.29'
 citation: ' Giuseppe Di,  Massimiliano Di,  Anna Fasolino,  Porfirio Tramontana, &quot;Supporting Web Application Evolution by Dynamic Analysis.&quot; In the proceedings of 8th International Workshop on Principles of Software Evolution (IWPSE 2005), 5-7 September 2005, Lisbon, Portugal, 2005.'
 ---
-DOI: 10.1109/IWPSE.2005.29, Scopus ID: 2-s2.0-33846534218, Cited by: 11
+[Bibtex](https://dblp.org/rec/bib/conf/iwpse/LuccaPFT05)
 
 [Access paper here](https://doi.org/10.1109/IWPSE.2005.29){:target="_blank"}

@@ -8,6 +8,6 @@ venue: 'In the proceedings of 14th International Conference on Program Comprehen
 paperurl: 'https://doi.org/10.1109/ICPC.2006.23'
 citation: ' Giuseppe Di,  Massimiliano Di, &quot;Experimental Settings in Program Comprehension: Challenges and Open Issues.&quot; In the proceedings of 14th International Conference on Program Comprehension (ICPC 2006), 14-16 June 2006, Athens, Greece, 2006.'
 ---
-DOI: 10.1109/ICPC.2006.23, Scopus ID: 2-s2.0-33845402683, Cited by: 7
+[Bibtex](https://dblp.org/rec/bib/conf/iwpc/LuccaP06)
 
 [Access paper here](https://doi.org/10.1109/ICPC.2006.23){:target="_blank"}

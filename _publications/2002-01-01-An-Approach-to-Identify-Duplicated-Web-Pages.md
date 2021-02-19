@@ -8,6 +8,6 @@ venue: 'In the proceedings of 26th International Computer Software and Applicati
 paperurl: 'https://doi.org/10.1109/CMPSAC.2002.1045051'
 citation: ' Giuseppe Di,  Massimiliano Di,  Anna Fasolino, &quot;An Approach to Identify Duplicated Web Pages.&quot; In the proceedings of 26th International Computer Software and Applications Conference (COMPSAC 2002), Prolonging Software Life: Development and Redevelopment, 26-29 August 2002, Oxford, England, Proceedings, 2002.'
 ---
-DOI: 10.1109/CMPSAC.2002.1045051, Scopus ID: 2-s2.0-0036389629, Cited by: 67
+[Bibtex](https://dblp.org/rec/bib/conf/compsac/LuccaPF02)
 
 [Access paper here](https://doi.org/10.1109/CMPSAC.2002.1045051){:target="_blank"}

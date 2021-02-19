@@ -8,6 +8,6 @@ venue: 'In the proceedings of The 19th IEEE International Conference on Program 
 paperurl: 'https://doi.org/10.1109/ICPC.2011.34'
 citation: ' Andrea De,  Massimiliano Di,  Rocco Oliveto,  Annibale Panichella,  Sebastiano Panichella, &quot;Improving IR-based Traceability Recovery Using Smoothing Filters.&quot; In the proceedings of The 19th IEEE International Conference on Program Comprehension, ICPC 2011, Kingston, ON, Canada, June 22-24, 2011, 2011.'
 ---
-DOI: 10.1109/ICPC.2011.34, Scopus ID: 2-s2.0-80052424960, Cited by: 24
+[Bibtex](https://dblp.org/rec/bib/conf/iwpc/LuciaPOPP11)
 
 [Access paper here](https://doi.org/10.1109/ICPC.2011.34){:target="_blank"}

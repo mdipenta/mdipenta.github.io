@@ -8,6 +8,6 @@ venue: 'In the proceedings of 11th International Workshop on Program Comprehensi
 paperurl: 'https://doi.org/10.1109/WPC.2003.1199185'
 citation: ' Giuliano Antoniol,  Massimiliano Di,  Ettore Merlo, &quot;YAAB (Yet Another AST Browser): Using OCL to Navigate ASTs.&quot; In the proceedings of 11th International Workshop on Program Comprehension (IWPC 2003), May 10-11, 2003, Portland, Oregon, USA, 2003.'
 ---
-DOI: 10.1109/WPC.2003.1199185, Scopus ID: 2-s2.0-84979010704, Cited by: 14
+[Bibtex](https://dblp.org/rec/bib/conf/iwpc/AntoniolPM03)
 
 [Access paper here](https://doi.org/10.1109/WPC.2003.1199185){:target="_blank"}

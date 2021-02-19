@@ -8,6 +8,6 @@ venue: 'In the proceedings of Proceedings of the 40th International Conference o
 paperurl: 'https://doi.org/10.1145/3180155.3180221'
 citation: ' Christopher Vendome,  Daniel Germ&apos;an,  Massimiliano Di,  Gabriele Bavota,  Mario V&apos;asquez,  Denys Poshyvanyk, &quot;To distribute or not to distribute?: why licensing bugs matter.&quot; In the proceedings of Proceedings of the 40th International Conference on Software Engineering, ICSE 2018, Gothenburg, Sweden, May 27 - June 03, 2018, 2018.'
 ---
-DOI: 10.1145/3180155.3180221
+[Bibtex](https://dblp.org/rec/bib/conf/icse/VendomeGPBVP18)
 
 [Access paper here](https://doi.org/10.1145/3180155.3180221){:target="_blank"}

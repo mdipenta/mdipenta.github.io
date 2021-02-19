@@ -8,6 +8,6 @@ venue: 'In the proceedings of 10th International Workshop on Program Comprehensi
 paperurl: 'https://doi.org/10.1109/WPC.2002.1021342'
 citation: ' Massimiliano Di,  Sara Gradara,  Giuliano Antoniol, &quot;Traceability Recovery in RAD Software Systems.&quot; In the proceedings of 10th International Workshop on Program Comprehension (IWPC 2002), 27-29 June 2002, Paris, France, 2002.'
 ---
-DOI: 10.1109/WPC.2002.1021342, Scopus ID: 2-s2.0-84948686899, Cited by: 22
+[Bibtex](https://dblp.org/rec/bib/conf/iwpc/PentaGA02)
 
 [Access paper here](https://doi.org/10.1109/WPC.2002.1021342){:target="_blank"}

@@ -7,4 +7,6 @@ venue: 'Journal of Systems and Software'
 paperurl: 'https://doi.org/10.1016/j.jss.2017.11.043'
 citation: ' Fabio Palomba,  Mario V&apos;asquez,  Gabriele Bavota,  Rocco Oliveto,  Massimiliano Di,  Denys Poshyvanyk,  Andrea De, &quot;Crowdsourcing user reviews to support the evolution of mobile apps.&quot; Journal of Systems and Software, 2018.'
 ---
+[Bibtex](https://dblp.org/rec/bib/journals/jss/PalombaVBOPPL18)
+
 [Access paper here](https://doi.org/10.1016/j.jss.2017.11.043){:target="_blank"}
