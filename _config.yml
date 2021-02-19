@@ -89,10 +89,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=j6ucyOAAAAAJ#"
   email            :  "dipenta@unisannio.it"
   researchgate     : "https://www.researchgate.net/profile/Massimiliano-Di-Penta"
-  uri              : 
+  uri              : "https://sss"
   bitbucket        :
   codepen          :
-  dribbble         : "https://ddd"
+  dribbble         : #"https://ddd"
   flickr           :
   facebook         : "https://www.facebook.com/massimiliano.penta.3"
   foursquare       :
@@ -105,9 +105,9 @@ author:
   linkedin         : "https://www.linkedin.com/in/massimiliano-di-penta-a362214"
   orcid            : "https://orcid.org/0000-0002-0340-9747"
   pinterest        :
-  soundcloud       : "https://sss"
+  soundcloud       : #"https://sss"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "https://sss"
+  steam            : #"https://sss"
   tumblr           :
   twitter          : "mdipenta"
   vine             :
