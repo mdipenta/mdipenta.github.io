@@ -13,11 +13,7 @@ main:
     url: /talks/    
 
   - title: "Service"
-    subfolderitems:
-    - page: "Journals"
-      url: /journal-services/
-    - page: "Conferences"
-      url: /conferences/
+      url: /service/
 
   - title: "Teaching"
     url: /teaching/    
