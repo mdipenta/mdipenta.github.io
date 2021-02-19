@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &maxdipenta
+  username               : &mdipenta
 facebook:
   username               :
   app_id                 :
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  name             : "Massimiliano (Max) Di Penta"
+  avatar           : "dipenta.png"
+  bio              : "Professor"
+  location         : "Benevento, Italy"
+  employer         : "University of Sannio"
+  pubmed           : "https://publons.com/researcher/1219978/massimiliano-di-penta/"
+  googlescholar    : "https://scholar.google.com/citations?user=j6ucyOAAAAAJ#"
   email            :  "dipenta@unisannio.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0340-9747"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "maxdipenta"
+  twitter          : "mdipenta"
   vine             :
   weibo            :
   xing             :
@@ -182,6 +182,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
+    output: true
+    permalink: /:collection/:path/
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
