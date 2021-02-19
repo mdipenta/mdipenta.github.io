@@ -1,17 +1,23 @@
 # main links links
 main:
+  - title: "Awards"
+    url: /awards/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Invited Talks"
     url: /talks/    
+
+  - title: "Service"
+    url: /projects/
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Projects"
-    url: /projects/
-        
+            
   - title: "Blog Posts"
     url: /year-archive/
     

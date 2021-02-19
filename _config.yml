@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Massimiliano Di Penta / Home Page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Massimiliano Di Penta"
 description              : &description "personal description"
 url                      : https://mdipenta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,16 +80,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Massimiliano (Max) Di Penta"
+  name             : "Massimiliano Di Penta"
   avatar           : "dipenta.png"
   bio              : "Professor"
-  location         : "Benevento, Italy"
   employer         : "University of Sannio"
+  location         : "Benevento, Italy"
+  institutional    : "http://www.google.it"
   pubmed           : "https://publons.com/researcher/1219978/massimiliano-di-penta/"
   googlescholar    : "https://scholar.google.com/citations?user=j6ucyOAAAAAJ#"
   email            :  "dipenta@unisannio.it"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  researchgate     : "https://www.researchgate.net/profile/Massimiliano-Di-Penta"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/massimiliano-di-penta-a362214"
   orcid            : "https://orcid.org/0000-0002-0340-9747"
   pinterest        :
   soundcloud       :
