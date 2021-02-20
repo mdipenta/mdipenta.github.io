@@ -1,7 +1,7 @@
 ---
 title: "Compiler Hacking for Source Code Analysis"
-collection: publications
-permalink: /publication/2004-01-01-Compiler-Hacking-for-Source-Code-Analysis
+collection: journals
+permalink: /journals/2004-01-01-Compiler-Hacking-for-Source-Code-Analysis
 excerpt: 'Springer, New York, USA, Scopus ID: 2-s2.0-4444279816, Cited by: 11'
 date: 2004-01-01
 venue: 'Software Quality Journal'

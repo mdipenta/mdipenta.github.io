@@ -1,7 +1,7 @@
 ---
 title: "An empirical characterization of bad practices in continuous integration"
-collection: publications
-permalink: /publication/2020-01-01-An-empirical-characterization-of-bad-practices-in-continuous-integration
+collection: journals
+permalink: /journals/2020-01-01-An-empirical-characterization-of-bad-practices-in-continuous-integration
 date: 2020-01-01
 venue: 'Empir. Softw. Eng.'
 paperurl: 'https://doi.org/10.1007/s10664-019-09785-8'

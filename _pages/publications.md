@@ -11,12 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
-##Journal papers
+<h2>Journal papers</h2>
 {% for post in site.journals reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-##Conference papers
+<h2>Conference papers</h2>
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}

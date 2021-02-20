@@ -1,7 +1,7 @@
 ---
 title: "CrossRec: Supporting software developers by recommending third-party libraries"
-collection: publications
-permalink: /publication/2020-01-01-CrossRec-Supporting-software-developers-by-recommending-third-party-libraries
+collection: journals
+permalink: /journals/2020-01-01-CrossRec-Supporting-software-developers-by-recommending-third-party-libraries
 date: 2020-01-01
 venue: 'J. Syst. Softw.'
 paperurl: 'https://doi.org/10.1016/j.jss.2019.110460'

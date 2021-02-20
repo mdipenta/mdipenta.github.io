@@ -1,7 +1,7 @@
 ---
 title: "The Use of Executable FIT Tables to support Maintenance and Evolution Tasks"
-collection: publications
-permalink: /publication/2007-01-01-The-Use-of-Executable-FIT-Tables-to-support-Maintenance-and-Evolution-Tasks
+collection: journals
+permalink: /journals/2007-01-01-The-Use-of-Executable-FIT-Tables-to-support-Maintenance-and-Evolution-Tasks
 excerpt: 'European Association of Software Science and Technology ({EASST}), Berlin, Germany, Scopus ID: 2-s2.0-57349191835, Cited by: 3'
 date: 2007-01-01
 venue: 'Electronic Communications of the EASST'

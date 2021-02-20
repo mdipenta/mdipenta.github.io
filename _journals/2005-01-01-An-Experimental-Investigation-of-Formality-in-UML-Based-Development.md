@@ -1,7 +1,7 @@
 ---
 title: "An Experimental Investigation of Formality in UML-Based Development"
-collection: publications
-permalink: /publication/2005-01-01-An-Experimental-Investigation-of-Formality-in-UML-Based-Development
+collection: journals
+permalink: /journals/2005-01-01-An-Experimental-Investigation-of-Formality-in-UML-Based-Development
 excerpt: 'Institute of Electrical and Electronics Engineers Inc. (IEEE), Los Alamitos, CA, USA, Scopus ID: 2-s2.0-30344485983, Cited by: 86'
 date: 2005-01-01
 venue: 'IEEE Trans. Software Eng.'

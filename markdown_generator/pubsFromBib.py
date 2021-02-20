@@ -28,6 +28,7 @@ import re
 publist = {
     "proceeding": {
         "file" : "proceedings.bib",
+        "dir" : "_publications/",
         "venuekey": "booktitle",
         #"venue-pretext": "the proceedings of ",
         "venue-pretext": "",
@@ -39,16 +40,18 @@ publist = {
     "journal":{
         "file": "pubs.bib",
         "venuekey" : "journal",
+        "dir" : "_journals/",
         "venue-pretext" : "",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+        "collection" : {"name":"journals",
+                        "permalink":"/journals/"}
     },
     "chapter":{
         "file": "chapters.bib",
         "venuekey" : "booktitle",
+        "dir" : "_chapters/",
         "venue-pretext" : "",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+        "collection" : {"name":"chapters",
+                        "permalink":"/chapters/"}
     }
 
     
@@ -167,8 +170,8 @@ for pubsource in publist:
                 md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
 
             md_filename = os.path.basename(md_filename)
-
-            with open("../_publications/" + md_filename, 'w') as f:
+            with open("../"+publist[pubsource]["dir"] + md_filename, 'w') as f:
+            #with open("../_publications/" + md_filename, 'w') as f:
                 f.write(md)
             print(f'SUCESSFULLY PARSED {bib_id}: \"', b["title"][:60],"..."*(len(b['title'])>60),"\"")
         # field may not exist for a reference

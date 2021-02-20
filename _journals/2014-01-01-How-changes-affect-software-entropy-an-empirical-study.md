@@ -1,7 +1,7 @@
 ---
 title: "How changes affect software entropy: an empirical study"
-collection: publications
-permalink: /publication/2014-01-01-How-changes-affect-software-entropy-an-empirical-study
+collection: journals
+permalink: /journals/2014-01-01-How-changes-affect-software-entropy-an-empirical-study
 excerpt: 'Springer, New York, USA, Scopus ID: 2-s2.0-84893777685, Cited by: 35'
 date: 2014-01-01
 venue: 'Empirical Software Engineering'

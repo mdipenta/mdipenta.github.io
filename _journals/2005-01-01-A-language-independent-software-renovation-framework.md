@@ -1,7 +1,7 @@
 ---
 title: "A language-independent software renovation framework"
-collection: publications
-permalink: /publication/2005-01-01-A-language-independent-software-renovation-framework
+collection: journals
+permalink: /journals/2005-01-01-A-language-independent-software-renovation-framework
 excerpt: 'Institute of Electrical and Electronics Engineers Inc. (IEEE), Los Alamitos, CA, USA, Scopus ID: 2-s2.0-18844449643, Cited by: 21'
 date: 2005-01-01
 venue: 'Journal of Systems and Software'

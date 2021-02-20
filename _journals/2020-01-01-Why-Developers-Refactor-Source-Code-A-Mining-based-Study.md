@@ -1,7 +1,7 @@
 ---
 title: "Why Developers Refactor Source Code: A Mining-based Study"
-collection: publications
-permalink: /publication/2020-01-01-Why-Developers-Refactor-Source-Code-A-Mining-based-Study
+collection: journals
+permalink: /journals/2020-01-01-Why-Developers-Refactor-Source-Code-A-Mining-based-Study
 date: 2020-01-01
 venue: 'ACM Trans. Softw. Eng. Methodol.'
 paperurl: 'https://doi.org/10.1145/3408302'

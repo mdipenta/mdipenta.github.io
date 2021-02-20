@@ -1,7 +1,7 @@
 ---
 title: "Testing services and service-centric systems: challenges and opportunities"
-collection: publications
-permalink: /publication/2006-01-01-Testing-services-and-service-centric-systems-challenges-and-opportunities
+collection: journals
+permalink: /journals/2006-01-01-Testing-services-and-service-centric-systems-challenges-and-opportunities
 excerpt: 'Institute of Electrical and Electronics Engineers Inc. (IEEE), Los Alamitos, CA, USA, Scopus ID: 2-s2.0-33646721094, Cited by: 143'
 date: 2006-01-01
 venue: 'IT Professional'

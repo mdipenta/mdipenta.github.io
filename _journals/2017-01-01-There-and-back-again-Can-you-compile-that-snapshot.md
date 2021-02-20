@@ -1,7 +1,7 @@
 ---
 title: "There and back again: Can you compile that snapshot?"
-collection: publications
-permalink: /publication/2017-01-01-There-and-back-again-Can-you-compile-that-snapshot
+collection: journals
+permalink: /journals/2017-01-01-There-and-back-again-Can-you-compile-that-snapshot
 excerpt: 'Springer, Chichester, UK, Scopus ID: 2-s2.0-85007240960, Cited by: 22'
 date: 2017-01-01
 venue: 'Journal of Software: Evolution and Process'
