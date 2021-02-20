@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-#TEST
 
 Education
 ======
@@ -42,18 +41,18 @@ Research Interests
 Publications
 ======
 
-###Journal papers
+<h3>Journal papers</h3>
   <ul>{% for post in site.journals %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-###Conference papers
+<h3>Conference papers</h3>
   
     <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-###Book chapters
+<h3>Book chapters</h3>
   
       <ul>{% for post in site.chapters %}
     {% include archive-single-cv.html %}
