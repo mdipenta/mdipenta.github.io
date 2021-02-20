@@ -16,28 +16,44 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-present: Full Professor
+ * University of Sannio, Italy
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 2011-2019: Associate Professor
+ * University of Sannio, Italy
+
+* 2004-2011: Assistant Professor
+ * University of Sannio, Italy
+
+ * 2003-2004: Postdoc
+ * University of Sannio, Italy
+
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software maintenance and evolution
+* Mining software repositories
+* Empirical software engineering
+* DevOps
+* Search-based software engineering
+* Software testing
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+
+###Journal papers
+  <ul>{% for post in site.journals %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+###Conference papers
+  
+    <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+###Book chapters
+  
+      <ul>{% for post in site.chapters %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -55,4 +71,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* TBA
