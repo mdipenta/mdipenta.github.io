@@ -245,7 +245,7 @@ defaults:
   # _chapters
   - scope:
       path: ""
-      type: publications
+      type: chapters
     values:
       layout: single
       author_profile: true

@@ -50,8 +50,8 @@ publist = {
         "venuekey" : "booktitle",
         "dir" : "_chapters/",
         "venue-pretext" : "",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+        "collection" : {"name":"chapters",
+                        "permalink":"/chapters/"}
     }
 
     
