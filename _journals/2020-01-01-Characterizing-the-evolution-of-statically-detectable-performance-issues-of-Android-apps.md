@@ -1,7 +1,7 @@
 ---
 title: "Characterizing the evolution of statically-detectable performance issues of Android apps"
 collection: journals
-permalink: /journals/2020-01-01-Characterizing-the-evolution-of-statically-detectable-performance-issues-of-Android-apps
+permalink: /publication/2020-01-01-Characterizing-the-evolution-of-statically-detectable-performance-issues-of-Android-apps
 date: 2020-01-01
 venue: 'Empir. Softw. Eng.'
 paperurl: 'https://doi.org/10.1007/s10664-019-09798-3'

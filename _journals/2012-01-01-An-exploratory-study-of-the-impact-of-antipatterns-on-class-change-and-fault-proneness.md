@@ -1,7 +1,7 @@
 ---
 title: "An exploratory study of the impact of antipatterns on class change- and fault-proneness"
 collection: journals
-permalink: /journals/2012-01-01-An-exploratory-study-of-the-impact-of-antipatterns-on-class-change-and-fault-proneness
+permalink: /publication/2012-01-01-An-exploratory-study-of-the-impact-of-antipatterns-on-class-change-and-fault-proneness
 excerpt: 'Springer, New York, USA, Scopus ID: 2-s2.0-84857356474, Cited by: 151'
 date: 2012-01-01
 venue: 'Empirical Software Engineering'

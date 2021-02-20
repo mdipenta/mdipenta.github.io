@@ -1,7 +1,7 @@
 ---
 title: "Analyzing cloning evolution in the Linux kernel"
 collection: journals
-permalink: /journals/2002-01-01-Analyzing-cloning-evolution-in-the-Linux-kernel
+permalink: /publication/2002-01-01-Analyzing-cloning-evolution-in-the-Linux-kernel
 excerpt: 'Institute of Electrical and Electronics Engineers Inc. (IEEE), Los Alamitos, CA, USA, Scopus ID: 2-s2.0-0036783855, Cited by: 89'
 date: 2002-01-01
 venue: 'Information &amp; Software Technology'

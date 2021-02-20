@@ -1,7 +1,7 @@
 ---
 title: "A framework for QoS-aware binding and re-binding of composite web services"
 collection: journals
-permalink: /journals/2008-01-01-A-framework-for-QoS-aware-binding-and-re-binding-of-composite-web-services
+permalink: /publication/2008-01-01-A-framework-for-QoS-aware-binding-and-re-binding-of-composite-web-services
 excerpt: 'Institute of Electrical and Electronics Engineers Inc. (IEEE), Los Alamitos, CA, USA, Scopus ID: 2-s2.0-48649083660, Cited by: 249'
 date: 2008-01-01
 venue: 'Journal of Systems and Software'

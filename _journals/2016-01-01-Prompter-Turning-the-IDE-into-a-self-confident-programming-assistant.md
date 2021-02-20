@@ -1,7 +1,7 @@
 ---
 title: "Prompter: Turning the IDE into a self-confident programming assistant"
 collection: journals
-permalink: /journals/2016-01-01-Prompter-Turning-the-IDE-into-a-self-confident-programming-assistant
+permalink: /publication/2016-01-01-Prompter-Turning-the-IDE-into-a-self-confident-programming-assistant
 excerpt: 'Springer, New York, USA, Scopus ID: 2-s2.0-84941349588, Cited by: 7'
 date: 2016-01-01
 venue: 'Empirical Software Engineering'

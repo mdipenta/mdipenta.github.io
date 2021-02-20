@@ -1,7 +1,7 @@
 ---
 title: "Improving Source Code Lexicon via Traceability and Information Retrieval"
 collection: journals
-permalink: /journals/2011-01-01-Improving-Source-Code-Lexicon-via-Traceability-and-Information-Retrieval
+permalink: /publication/2011-01-01-Improving-Source-Code-Lexicon-via-Traceability-and-Information-Retrieval
 excerpt: 'Institute of Electrical and Electronics Engineers Inc. (IEEE), Los Alamitos, CA, USA, Scopus ID: 2-s2.0-79953231975, Cited by: 40'
 date: 2011-01-01
 venue: 'IEEE Trans. Software Eng.'

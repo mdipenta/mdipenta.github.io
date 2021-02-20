@@ -1,7 +1,7 @@
 ---
 title: "TIDIER: an identifier splitting approach using speech recognition techniques"
 collection: journals
-permalink: /journals/2013-01-01-TIDIER-an-identifier-splitting-approach-using-speech-recognition-techniques
+permalink: /publication/2013-01-01-TIDIER-an-identifier-splitting-approach-using-speech-recognition-techniques
 excerpt: 'Institute of Electrical and Electronics Engineers Inc. (IEEE), Chichester, UK, Scopus ID: 2-s2.0-84883654687, Cited by: 22'
 date: 2013-01-01
 venue: 'Journal of Software: Evolution and Process'

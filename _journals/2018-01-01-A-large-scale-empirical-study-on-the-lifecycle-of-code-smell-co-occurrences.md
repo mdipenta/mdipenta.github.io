@@ -1,7 +1,7 @@
 ---
 title: "A large-scale empirical study on the lifecycle of code smell co-occurrences"
 collection: journals
-permalink: /journals/2018-01-01-A-large-scale-empirical-study-on-the-lifecycle-of-code-smell-co-occurrences
+permalink: /publication/2018-01-01-A-large-scale-empirical-study-on-the-lifecycle-of-code-smell-co-occurrences
 excerpt: 'Springer, New York, USA, Scopus ID: 2-s2.0-85042941931, Cited by: 13'
 date: 2018-01-01
 venue: 'Information &amp; Software Technology'

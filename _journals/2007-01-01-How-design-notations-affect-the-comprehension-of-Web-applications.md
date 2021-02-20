@@ -1,7 +1,7 @@
 ---
 title: "How design notations affect the comprehension of Web applications"
 collection: journals
-permalink: /journals/2007-01-01-How-design-notations-affect-the-comprehension-of-Web-applications
+permalink: /publication/2007-01-01-How-design-notations-affect-the-comprehension-of-Web-applications
 excerpt: 'European Association of Software Science and Technology ({EASST}), Chichester, UK, Scopus ID: 2-s2.0-35948988563, Cited by: 1'
 date: 2007-01-01
 venue: 'Journal of Software Maintenance'

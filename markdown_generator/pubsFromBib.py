@@ -43,7 +43,7 @@ publist = {
         "dir" : "_journals/",
         "venue-pretext" : "",
         "collection" : {"name":"journals",
-                        "permalink":"/journals/"}
+                        "permalink":"/publication/"}
     },
     "chapter":{
         "file": "chapters.bib",
@@ -51,7 +51,7 @@ publist = {
         "dir" : "_chapters/",
         "venue-pretext" : "",
         "collection" : {"name":"chapters",
-                        "permalink":"/chapters/"}
+                        "permalink":"/publication/"}
     }
 
     

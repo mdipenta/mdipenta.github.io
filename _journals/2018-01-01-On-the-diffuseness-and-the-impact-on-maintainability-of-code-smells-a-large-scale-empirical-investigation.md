@@ -1,7 +1,7 @@
 ---
 title: "On the diffuseness and the impact on maintainability of code smells: a large scale empirical investigation"
 collection: journals
-permalink: /journals/2018-01-01-On-the-diffuseness-and-the-impact-on-maintainability-of-code-smells-a-large-scale-empirical-investigation
+permalink: /publication/2018-01-01-On-the-diffuseness-and-the-impact-on-maintainability-of-code-smells-a-large-scale-empirical-investigation
 excerpt: 'Springer, New York, USA, Scopus ID: 2-s2.0-85026909182, Cited by: 22'
 date: 2018-01-01
 venue: 'Empirical Software Engineering'
