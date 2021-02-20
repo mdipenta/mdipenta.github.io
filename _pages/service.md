@@ -21,11 +21,11 @@ author_profile: true
 
 
 
-##Journal-related activities
-###Editor-in-chief
+## Journal-related activities
+### Editor-in-chief
 Journal of Software Evolution and Processes, edited by Wiley (2019-)
 
-###Editorial board member
+### Editorial board member
 
 **Current:**
 
@@ -39,7 +39,7 @@ Journal of Software Evolution and Processes, edited by Wiley (2019-)
 
 
 
-###Guest editor
+### Guest editor
 
 * Massimiliano Di Penta, David C. Shepherd:
 Guest editorial: special section on software analysis, evolution, and reengineering. *Empirical Software Engineering* 25(2): 1379-1381 (2020)
@@ -109,8 +109,8 @@ Guest editorial: special section on software analysis, evolution, and reengineer
 
 
 
-##Conference-Related Activities
-###Steering committee member
+## Conference-Related Activities
+### Steering committee member
 **Current:**
 
 * ACM/IEEE International Conference on Software Engineering (ICSE): 2019 - 
