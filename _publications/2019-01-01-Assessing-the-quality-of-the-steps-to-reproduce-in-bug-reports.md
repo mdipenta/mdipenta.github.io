@@ -8,6 +8,6 @@ venue: 'Proceedings of the ACM Joint Meeting on European Software Engineering Co
 paperurl: 'https://doi.org/10.1145/3338906.3338947'
 citation: ' Oscar Chaparro,  Carlos Bernal-C&apos;ardenas,  Jing Lu,  Kevin Moran,  Andrian Marcus,  Massimiliano Di Penta,  Denys Poshyvanyk,  Vincent Ng, &quot;Assessing the quality of the steps to reproduce in bug reports.&quot; Proceedings of the ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/SIGSOFT FSE 2019, Tallinn, Estonia, August 26-30, 2019., 2019.'
 ---
-[Bibtex](https://dblp.org/rec/bib/conf/sigsoft/ChaparroBLMMPPN19)
+[Bibtex](https://dblp.org/rec/bib/conf/sigsoft/ChaparroBLMMPPN19){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1145/3338906.3338947){:target="_blank"}

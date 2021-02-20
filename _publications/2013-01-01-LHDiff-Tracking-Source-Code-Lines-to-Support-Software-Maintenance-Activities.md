@@ -8,6 +8,6 @@ venue: '2013 IEEE International Conference on Software Maintenance, Eindhoven, T
 paperurl: 'https://doi.org/10.1109/ICSM.2013.78'
 citation: ' Muhammad Asaduzzaman,  Chanchal Roy,  Kevin Schneider,  Massimiliano Di Penta, &quot;LHDiff: Tracking Source Code Lines to Support Software Maintenance Activities.&quot; 2013 IEEE International Conference on Software Maintenance, Eindhoven, The Netherlands, September 22-28, 2013, 2013.'
 ---
-[Bibtex](https://dblp.org/rec/bib/conf/icsm/AsaduzzamanRSP13a)
+[Bibtex](https://dblp.org/rec/bib/conf/icsm/AsaduzzamanRSP13a){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1109/ICSM.2013.78){:target="_blank"}

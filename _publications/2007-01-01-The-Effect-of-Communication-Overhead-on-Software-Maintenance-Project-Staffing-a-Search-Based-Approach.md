@@ -8,6 +8,6 @@ venue: '23rd IEEE International Conference on Software Maintenance (ICSM 2007), 
 paperurl: 'https://doi.org/10.1109/ICSM.2007.4362644'
 citation: ' Massimiliano Di Penta,  Mark Harman,  Giuliano Antoniol,  Fahim Qureshi, &quot;The Effect of Communication Overhead on Software Maintenance Project Staffing: a Search-Based Approach.&quot; 23rd IEEE International Conference on Software Maintenance (ICSM 2007), October 2-5, 2007, Paris, France, 2007.'
 ---
-[Bibtex](https://dblp.org/rec/bib/conf/icsm/PentaHAQ07)
+[Bibtex](https://dblp.org/rec/bib/conf/icsm/PentaHAQ07){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1109/ICSM.2007.4362644){:target="_blank"}

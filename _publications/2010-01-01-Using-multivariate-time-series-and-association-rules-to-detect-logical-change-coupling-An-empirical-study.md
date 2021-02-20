@@ -8,6 +8,6 @@ venue: '26th IEEE International Conference on Software Maintenance (ICSM 2010), 
 paperurl: 'https://doi.org/10.1109/ICSM.2010.5609732'
 citation: ' Gerardo Canfora,  Michele Ceccarelli,  Luigi Cerulo,  Massimiliano Di Penta, &quot;Using multivariate time series and association rules to detect logical change coupling: An empirical study.&quot; 26th IEEE International Conference on Software Maintenance (ICSM 2010), September 12-18, 2010, Timisoara, Romania, 2010.'
 ---
-[Bibtex](https://dblp.org/rec/bib/conf/icsm/CanforaCCP10)
+[Bibtex](https://dblp.org/rec/bib/conf/icsm/CanforaCCP10){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1109/ICSM.2010.5609732){:target="_blank"}

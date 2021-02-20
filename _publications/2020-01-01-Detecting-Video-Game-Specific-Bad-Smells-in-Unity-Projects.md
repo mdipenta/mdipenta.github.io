@@ -7,6 +7,6 @@ venue: 'MSR &apos;20: 17th International Conference on Mining Software Repositor
 paperurl: 'https://doi.org/10.1145/3379597.3387454'
 citation: ' Antonio Borrelli,  Vittoria Nardone,  Giuseppe A. Di Lucca,  Gerardo Canfora,  Massimiliano Di Penta, &quot;Detecting Video Game-Specific Bad Smells in Unity Projects.&quot; MSR &amp;apos;20: 17th International Conference on Mining Software Repositories, Seoul, Republic of Korea, 29-30 June, 2020, 2020.'
 ---
-[Bibtex](https://dblp.org/rec/conf/msr/BorrelliNLCP20.bib)
+[Bibtex](https://dblp.org/rec/conf/msr/BorrelliNLCP20.bib){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1145/3379597.3387454){:target="_blank"}

@@ -8,6 +8,6 @@ venue: 'Genetic and Evolutionary Computation Conference, GECCO 2007, Proceedings
 paperurl: 'https://doi.org/10.1145/1276958.1277174'
 citation: ' Massimiliano Di Penta,  Gerardo Canfora,  Gianpiero Esposito,  Valentina Mazza,  Marcello Bruno, &quot;Search-based testing of service level agreements.&quot; Genetic and Evolutionary Computation Conference, GECCO 2007, Proceedings, London, England, UK, July 7-11, 2007, 2007.'
 ---
-[Bibtex](https://dblp.org/rec/bib/conf/gecco/PentaCEMB07)
+[Bibtex](https://dblp.org/rec/bib/conf/gecco/PentaCEMB07){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1145/1276958.1277174){:target="_blank"}

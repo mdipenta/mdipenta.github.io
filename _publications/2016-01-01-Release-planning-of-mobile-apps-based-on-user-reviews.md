@@ -8,6 +8,6 @@ venue: 'Proceedings of the 38th International Conference on Software Engineering
 paperurl: 'https://doi.org/10.1145/2884781.2884818'
 citation: ' Lorenzo Villarroel,  Gabriele Bavota,  Barbara Russo,  Rocco Oliveto,  Massimiliano Di Penta, &quot;Release planning of mobile apps based on user reviews.&quot; Proceedings of the 38th International Conference on Software Engineering, ICSE 2016, Austin, TX, USA, May 14-22, 2016, 2016.'
 ---
-[Bibtex](https://dblp.org/rec/bib/conf/icse/VillarroelBROP16)
+[Bibtex](https://dblp.org/rec/bib/conf/icse/VillarroelBROP16){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1145/2884781.2884818){:target="_blank"}

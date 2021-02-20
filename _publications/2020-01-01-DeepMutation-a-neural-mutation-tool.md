@@ -7,6 +7,6 @@ venue: 'ICSE &apos;20: 42nd International Conference on Software Engineering, Co
 paperurl: 'https://doi.org/10.1145/3377812.3382146'
 citation: ' Michele Tufano,  Jason Kimko,  Shiya Wang,  Cody Watson,  Gabriele Bavota,  Massimiliano Di Penta,  Denys Poshyvanyk, &quot;DeepMutation: a neural mutation tool.&quot; ICSE &amp;apos;20: 42nd International Conference on Software Engineering, Companion Volume, Seoul, South Korea, 27 June - 19 July, 2020, 2020.'
 ---
-[Bibtex](https://dblp.org/rec/conf/icse/TufanoKWWBPP20.bib)
+[Bibtex](https://dblp.org/rec/conf/icse/TufanoKWWBPP20.bib){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1145/3377812.3382146){:target="_blank"}

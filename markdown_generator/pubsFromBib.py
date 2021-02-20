@@ -42,7 +42,7 @@ publist = {
         "venuekey" : "journal",
         "dir" : "_journals/",
         "venue-pretext" : "",
-        "collection" : {"name":"journals",
+        "collection" : {"name":"publications",
                         "permalink":"/publication/"}
     },
     "chapter":{
@@ -50,7 +50,7 @@ publist = {
         "venuekey" : "booktitle",
         "dir" : "_chapters/",
         "venue-pretext" : "",
-        "collection" : {"name":"chapters",
+        "collection" : {"name":"publications",
                         "permalink":"/publication/"}
     }
 
@@ -162,7 +162,7 @@ for pubsource in publist:
             if "biburl" in b.keys():
                 btex=b["biburl"]
             if btex:
-                md+="\n[Bibtex]("+btex+")\n"    
+                md+="\n[Bibtex]("+btex+"){:target=\"_blank\"}\n"    
 
             if url:
                 md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 

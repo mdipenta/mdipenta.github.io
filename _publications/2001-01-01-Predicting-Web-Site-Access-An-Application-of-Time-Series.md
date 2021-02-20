@@ -8,6 +8,6 @@ venue: '3rd International Workshop on Web Site Evolution (WSE 2001) - Access for
 paperurl: 'https://doi.org/10.1109/WSE.2001.988786'
 citation: ' Giuliano Antoniol,  Gerardo Casazza,  Giuseppe A. Di Lucca,  Massimiliano Di Penta,  Ettore Merlo, &quot;Predicting Web Site Access: An Application of Time Series.&quot; 3rd International Workshop on Web Site Evolution (WSE 2001) - Access for All, 10 November 2001, Florence, Italy, 2001.'
 ---
-[Bibtex](https://dblp.org/rec/bib/conf/wse/AntoniolCLPM01)
+[Bibtex](https://dblp.org/rec/bib/conf/wse/AntoniolCLPM01){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1109/WSE.2001.988786){:target="_blank"}

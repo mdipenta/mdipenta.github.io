@@ -8,6 +8,6 @@ venue: 'Eighth IEEE International Workshop on Web Site Evolution (WSE 2006), 22-
 paperurl: 'https://doi.org/10.1109/WSE.2006.3'
 citation: ' Filippo Ricca,  Massimiliano Di Penta,  Marco Torchiano,  Paolo Tonella,  Mariano Ceccato, &quot;An empirical study on the usefulness of Conallen&amp;apos;s stereotypes in Web application comprehension.&quot; Eighth IEEE International Workshop on Web Site Evolution (WSE 2006), 22-24 September 2006, Philadelphia, Pennsylvania, USA, 2006.'
 ---
-[Bibtex](https://dblp.org/rec/bib/conf/wse/RiccaPTTC06)
+[Bibtex](https://dblp.org/rec/bib/conf/wse/RiccaPTTC06){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1109/WSE.2006.3){:target="_blank"}

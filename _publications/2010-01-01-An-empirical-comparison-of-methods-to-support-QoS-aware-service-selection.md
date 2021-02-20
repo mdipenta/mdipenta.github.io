@@ -8,6 +8,6 @@ venue: 'Proceedings of the 2nd International Workshop on Principles of Engineeri
 paperurl: 'https://doi.org/10.1145/1808885.1808899'
 citation: ' Bice Cavallo,  Massimiliano Di Penta,  Gerardo Canfora, &quot;An empirical comparison of methods to support QoS-aware service selection.&quot; Proceedings of the 2nd International Workshop on Principles of Engineering Service-Oriented Systems, PESOS 2010, Cape Town, South Africa, May 1-2, 2010, 2010.'
 ---
-[Bibtex](https://dblp.org/rec/bib/conf/icse/CavalloPC10)
+[Bibtex](https://dblp.org/rec/bib/conf/icse/CavalloPC10){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1145/1808885.1808899){:target="_blank"}

@@ -8,6 +8,6 @@ venue: 'Proceedings of the 39th International Conference on Software Engineering
 paperurl: 'https://doi.org/10.1109/ICSE.2017.19'
 citation: ' Christopher Vendome,  Mario V&apos;asquez,  Gabriele Bavota,  Massimiliano Di Penta,  Daniel Germ&apos;an,  Denys Poshyvanyk, &quot;Machine learning-based detection of open source license exceptions.&quot; Proceedings of the 39th International Conference on Software Engineering, ICSE 2017, Buenos Aires, Argentina, May 20-28, 2017, 2017.'
 ---
-[Bibtex](https://dblp.org/rec/bib/conf/icse/VendomeVBPGP17)
+[Bibtex](https://dblp.org/rec/bib/conf/icse/VendomeVBPGP17){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1109/ICSE.2017.19){:target="_blank"}

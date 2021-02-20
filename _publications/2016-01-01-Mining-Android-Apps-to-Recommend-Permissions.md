@@ -8,6 +8,6 @@ venue: 'IEEE 23rd International Conference on Software Analysis, Evolution, and 
 paperurl: 'https://doi.org/10.1109/SANER.2016.74'
 citation: ' Md Karim,  Huzefa Kagdi,  Massimiliano Di Penta, &quot;Mining Android Apps to Recommend Permissions.&quot; IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering, SANER 2016, Suita, Osaka, Japan, March 14-18, 2016 - Volume 1, 2016.'
 ---
-[Bibtex](https://dblp.org/rec/bib/conf/wcre/KarimKP16)
+[Bibtex](https://dblp.org/rec/bib/conf/wcre/KarimKP16){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1109/SANER.2016.74){:target="_blank"}

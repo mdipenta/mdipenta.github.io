@@ -8,6 +8,6 @@ venue: 'Fourth IEEE International Conference on Software Testing, Verification a
 paperurl: 'https://doi.org/10.1109/ICST.2011.49'
 citation: ' Daniele Romano,  Massimiliano Di Penta,  Giuliano Antoniol, &quot;An Approach for Search Based Testing of Null Pointer Exceptions.&quot; Fourth IEEE International Conference on Software Testing, Verification and Validation, ICST 2011, Berlin, Germany, March 21-25, 2011, 2011.'
 ---
-[Bibtex](https://dblp.org/rec/bib/conf/icst/RomanoPA11)
+[Bibtex](https://dblp.org/rec/bib/conf/icst/RomanoPA11){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1109/ICST.2011.49){:target="_blank"}

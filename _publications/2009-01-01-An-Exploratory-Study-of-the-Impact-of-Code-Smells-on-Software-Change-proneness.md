@@ -8,6 +8,6 @@ venue: '16th Working Conference on Reverse Engineering, WCRE 2009, 13-16 October
 paperurl: 'https://doi.org/10.1109/WCRE.2009.28'
 citation: ' Foutse Khomh,  Massimiliano Di Penta,  Yann-Ga&quot;el Gu&apos;eh&apos;eneuc, &quot;An Exploratory Study of the Impact of Code Smells on Software Change-proneness.&quot; 16th Working Conference on Reverse Engineering, WCRE 2009, 13-16 October 2009, Lille, France, 2009.'
 ---
-[Bibtex](https://dblp.org/rec/bib/conf/wcre/KhomhPG99a)
+[Bibtex](https://dblp.org/rec/bib/conf/wcre/KhomhPG99a){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1109/WCRE.2009.28){:target="_blank"}

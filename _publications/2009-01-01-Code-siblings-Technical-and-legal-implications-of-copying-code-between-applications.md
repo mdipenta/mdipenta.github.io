@@ -8,6 +8,6 @@ venue: 'Proceedings of the 6th International Working Conference on Mining Softwa
 paperurl: 'https://doi.org/10.1109/MSR.2009.5069483'
 citation: ' Daniel Germ&apos;an,  Massimiliano Di Penta,  Yann-Ga&quot;el Gu&apos;eh&apos;eneuc,  Giuliano Antoniol, &quot;Code siblings: Technical and legal implications of copying code between applications.&quot; Proceedings of the 6th International Working Conference on Mining Software Repositories, MSR 2009 (Co-located with ICSE), Vancouver, BC, Canada, May 16-17, 2009, Proceedings, 2009.'
 ---
-[Bibtex](https://dblp.org/rec/bib/conf/msr/GermanPGA09)
+[Bibtex](https://dblp.org/rec/bib/conf/msr/GermanPGA09){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1109/MSR.2009.5069483){:target="_blank"}

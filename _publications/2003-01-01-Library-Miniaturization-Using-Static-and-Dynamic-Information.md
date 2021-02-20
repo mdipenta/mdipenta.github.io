@@ -8,6 +8,6 @@ venue: '19th International Conference on Software Maintenance (ICSM 2003), The A
 paperurl: 'https://doi.org/10.1109/ICSM.2003.1235426'
 citation: ' Giuliano Antoniol,  Massimiliano Di Penta, &quot;Library Miniaturization Using Static and Dynamic Information.&quot; 19th International Conference on Software Maintenance (ICSM 2003), The Architecture of Existing Systems, 22-26 September 2003, Amsterdam, The Netherlands, 2003.'
 ---
-[Bibtex](https://dblp.org/rec/bib/conf/icsm/AntoniolP03)
+[Bibtex](https://dblp.org/rec/bib/conf/icsm/AntoniolP03){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1109/ICSM.2003.1235426){:target="_blank"}

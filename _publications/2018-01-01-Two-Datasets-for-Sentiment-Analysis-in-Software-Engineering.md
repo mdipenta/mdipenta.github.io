@@ -8,6 +8,6 @@ venue: '2018 IEEE International Conference on Software Maintenance and Evolution
 paperurl: 'https://doi.org/10.1109/ICSME.2018.00084'
 citation: ' Bin Lin,  Fiorella Zampetti,  Rocco Oliveto,  Massimiliano Di Penta,  Michele Lanza,  Gabriele Bavota, &quot;Two Datasets for Sentiment Analysis in Software Engineering.&quot; 2018 IEEE International Conference on Software Maintenance and Evolution, ICSME 2018, Madrid, Spain, September 23-29, 2018, 2018.'
 ---
-[Bibtex](https://dblp.org/rec/bib/conf/icsm/0008ZOPLB18)
+[Bibtex](https://dblp.org/rec/bib/conf/icsm/0008ZOPLB18){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1109/ICSME.2018.00084){:target="_blank"}

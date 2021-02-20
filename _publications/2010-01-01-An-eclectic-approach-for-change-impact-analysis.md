@@ -8,6 +8,6 @@ venue: 'Proceedings of the 32nd ACM/IEEE International Conference on Software En
 paperurl: 'https://doi.org/10.1145/1810295.1810320'
 citation: ' Michele Ceccarelli,  Luigi Cerulo,  Gerardo Canfora,  Massimiliano Di Penta, &quot;An eclectic approach for change impact analysis.&quot; Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering - Volume 2, ICSE 2010, Cape Town, South Africa, 1-8 May 2010, 2010.'
 ---
-[Bibtex](https://dblp.org/rec/bib/conf/icse/CeccarelliCCP10)
+[Bibtex](https://dblp.org/rec/bib/conf/icse/CeccarelliCCP10){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1145/1810295.1810320){:target="_blank"}

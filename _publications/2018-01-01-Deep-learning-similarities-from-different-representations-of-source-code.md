@@ -8,6 +8,6 @@ venue: 'Proceedings of the 15th International Conference on Mining Software Repo
 paperurl: 'https://doi.org/10.1145/3196398.3196431'
 citation: ' Michele Tufano,  Cody Watson,  Gabriele Bavota,  Massimiliano Di Penta,  Martin White,  Denys Poshyvanyk, &quot;Deep learning similarities from different representations of source code.&quot; Proceedings of the 15th International Conference on Mining Software Repositories, MSR 2018, Gothenburg, Sweden, May 28-29, 2018, 2018.'
 ---
-[Bibtex](https://dblp.org/rec/bib/conf/msr/TufanoWBPWP08)
+[Bibtex](https://dblp.org/rec/bib/conf/msr/TufanoWBPWP08){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1145/3196398.3196431){:target="_blank"}

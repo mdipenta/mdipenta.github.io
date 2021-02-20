@@ -8,6 +8,6 @@ venue: '37th IEEE/ACM International Conference on Software Engineering, ICSE 201
 paperurl: 'https://doi.org/10.1109/ICSE.2015.98'
 citation: ' Laura Moreno,  Gabriele Bavota,  Massimiliano Di Penta,  Rocco Oliveto,  Andrian Marcus, &quot;How Can I Use This Method?.&quot; 37th IEEE/ACM International Conference on Software Engineering, ICSE 2015, Florence, Italy, May 16-24, 2015, Volume 1, 2015.'
 ---
-[Bibtex](https://dblp.org/rec/bib/conf/icse/MorenoBPOM15)
+[Bibtex](https://dblp.org/rec/bib/conf/icse/MorenoBPOM15){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1109/ICSE.2015.98){:target="_blank"}

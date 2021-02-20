@@ -8,6 +8,6 @@ venue: '9th European Conference on Software Maintenance and Reengineering (CSMR 
 paperurl: 'https://doi.org/10.1109/CSMR.2005.52'
 citation: ' Massimiliano Di Penta,  Kunal Taneja, &quot;Towards the Automatic Evolution of Reengineering Tools.&quot; 9th European Conference on Software Maintenance and Reengineering (CSMR 2005), 21-23 March 2005, Manchester, UK, Proceedings, 2005.'
 ---
-[Bibtex](https://dblp.org/rec/bib/conf/csmr/PentaT05)
+[Bibtex](https://dblp.org/rec/bib/conf/csmr/PentaT05){:target="_blank"}
 
 [Access paper here](https://doi.org/10.1109/CSMR.2005.52){:target="_blank"}
