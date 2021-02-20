@@ -1,7 +1,7 @@
 ---
 title: "Assessing, Comparing, and Combining State Machine-Based Testing and Structural Testing: A Series of Experiments"
-collection: publications
-permalink: /publication/2011-01-01-Assessing-Comparing-and-Combining-State-Machine-Based-Testing-and-Structural-Testing-A-Series-of-Experiments
+collection: journals
+permalink: /journals/2011-01-01-Assessing-Comparing-and-Combining-State-Machine-Based-Testing-and-Structural-Testing-A-Series-of-Experiments
 excerpt: 'Institute of Electrical and Electronics Engineers Inc. (IEEE), Los Alamitos, CA, USA, Scopus ID: 2-s2.0-79953189406, Cited by: 41'
 date: 2011-01-01
 venue: 'IEEE Trans. Software Eng.'

@@ -1,7 +1,7 @@
 ---
 title: "Demystifying the adoption of behavior-driven development in open source projects"
-collection: publications
-permalink: /publication/2020-01-01-Demystifying-the-adoption-of-behavior-driven-development-in-open-source-projects
+collection: journals
+permalink: /journals/2020-01-01-Demystifying-the-adoption-of-behavior-driven-development-in-open-source-projects
 date: 2020-01-01
 venue: 'Inf. Softw. Technol.'
 paperurl: 'https://doi.org/10.1016/j.infsof.2020.106311'

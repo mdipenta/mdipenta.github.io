@@ -42,8 +42,8 @@ publist = {
         "venuekey" : "journal",
         "dir" : "_journals/",
         "venue-pretext" : "",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+        "collection" : {"name":"journals",
+                        "permalink":"/journals/"}
     },
     "chapter":{
         "file": "chapters.bib",

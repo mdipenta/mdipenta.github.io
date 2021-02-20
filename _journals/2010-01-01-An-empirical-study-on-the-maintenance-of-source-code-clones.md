@@ -1,7 +1,7 @@
 ---
 title: "An empirical study on the maintenance of source code clones"
-collection: publications
-permalink: /publication/2010-01-01-An-empirical-study-on-the-maintenance-of-source-code-clones
+collection: journals
+permalink: /journals/2010-01-01-An-empirical-study-on-the-maintenance-of-source-code-clones
 excerpt: 'Springer, New York, USA, Scopus ID: 2-s2.0-76749101150, Cited by: 105'
 date: 2010-01-01
 venue: 'Empirical Software Engineering'

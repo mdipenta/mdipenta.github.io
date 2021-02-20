@@ -1,7 +1,7 @@
 ---
 title: "Using acceptance tests as a support for clarifying requirements: A series of experiments"
-collection: publications
-permalink: /publication/2009-01-01-Using-acceptance-tests-as-a-support-for-clarifying-requirements-A-series-of-experiments
+collection: journals
+permalink: /journals/2009-01-01-Using-acceptance-tests-as-a-support-for-clarifying-requirements-A-series-of-experiments
 excerpt: 'The Institution of Engineering and Technology ({IET}), London, UK, Scopus ID: 2-s2.0-56349142435, Cited by: 39'
 date: 2009-01-01
 venue: 'Information &amp; Software Technology'

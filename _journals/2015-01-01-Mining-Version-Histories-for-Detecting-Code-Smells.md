@@ -1,7 +1,7 @@
 ---
 title: "Mining Version Histories for Detecting Code Smells"
-collection: publications
-permalink: /publication/2015-01-01-Mining-Version-Histories-for-Detecting-Code-Smells
+collection: journals
+permalink: /journals/2015-01-01-Mining-Version-Histories-for-Detecting-Code-Smells
 excerpt: 'Institute of Electrical and Electronics Engineers Inc. (IEEE), Los Alamitos, CA, USA, Scopus ID: 2-s2.0-84929317902, Cited by: 97'
 date: 2015-01-01
 venue: 'IEEE Trans. Software Eng.'
