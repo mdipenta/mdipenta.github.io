@@ -6,7 +6,7 @@ excerpt: 'Institute of Electrical and Electronics Engineers Inc. (IEEE), Los Ala
 date: 2013-01-01
 venue: 'Information &amp; Software Technology'
 paperurl: 'https://doi.org/10.1016/j.infsof.2012.08.002'
-citation: ' Andrea De,  Massimiliano Di,  Rocco Oliveto,  Annibale Panichella,  Sebastiano Panichella, &quot;Applying a smoothing filter to improve IR-based traceability recovery processes: An empirical investigation.&quot; Information &amp;amp; Software Technology, 2013.'
+citation: ' Andrea De Lucia,  Massimiliano Di Penta,  Rocco Oliveto,  Annibale Panichella,  Sebastiano Panichella, &quot;Applying a smoothing filter to improve IR-based traceability recovery processes: An empirical investigation.&quot; Information &amp;amp; Software Technology, 2013.'
 ---
 [Bibtex](https://dblp.org/rec/bib/journals/infsof/LuciaPOPP13)
 

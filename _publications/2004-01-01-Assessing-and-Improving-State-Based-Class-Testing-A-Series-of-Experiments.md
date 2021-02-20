@@ -6,7 +6,7 @@ excerpt: 'Institute of Electrical and Electronics Engineers Inc. (IEEE), Los Ala
 date: 2004-01-01
 venue: 'IEEE Trans. Software Eng.'
 paperurl: 'https://doi.org/10.1109/TSE.2004.79'
-citation: ' Lionel Briand,  Massimiliano Di,  Yvan Labiche, &quot;Assessing and Improving State-Based Class Testing: A Series of Experiments.&quot; IEEE Trans. Software Eng., 2004.'
+citation: ' Lionel Briand,  Massimiliano Di Penta,  Yvan Labiche, &quot;Assessing and Improving State-Based Class Testing: A Series of Experiments.&quot; IEEE Trans. Software Eng., 2004.'
 ---
 [Bibtex](https://dblp.org/rec/bib/journals/tse/BriandPL04)
 

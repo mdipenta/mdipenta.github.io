@@ -6,7 +6,7 @@ excerpt: 'Institute of Electrical and Electronics Engineers Inc. (IEEE), Chiches
 date: 2013-01-01
 venue: 'Journal of Software: Evolution and Process'
 paperurl: 'https://doi.org/10.1002/smr.539'
-citation: ' Latifa Guerrouj,  Massimiliano Di,  Giuliano Antoniol,  Yann-Ga&quot;el Gu&apos;eh&apos;eneuc, &quot;TIDIER: an identifier splitting approach using speech recognition techniques.&quot; Journal of Software: Evolution and Process, 2013.'
+citation: ' Latifa Guerrouj,  Massimiliano Di Penta,  Giuliano Antoniol,  Yann-Ga&quot;el Gu&apos;eh&apos;eneuc, &quot;TIDIER: an identifier splitting approach using speech recognition techniques.&quot; Journal of Software: Evolution and Process, 2013.'
 ---
 [Bibtex](https://dblp.org/rec/bib/journals/smr/GuerroujPAG13)
 

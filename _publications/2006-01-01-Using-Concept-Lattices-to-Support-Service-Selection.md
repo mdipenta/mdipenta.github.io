@@ -6,7 +6,7 @@ excerpt: 'Institute of Electrical and Electronics Engineers Inc. (IEEE), Los Ala
 date: 2006-01-01
 venue: 'Int. J. Web Service Res.'
 paperurl: 'https://doi.org/10.4018/jwsr.2006100102'
-citation: ' Lerina Aversano,  Marcello Bruno,  Gerardo Canfora,  Massimiliano Di,  Damiano Distante, &quot;Using Concept Lattices to Support Service Selection.&quot; Int. J. Web Service Res., 2006.'
+citation: ' Lerina Aversano,  Marcello Bruno,  Gerardo Canfora,  Massimiliano Di Penta,  Damiano Distante, &quot;Using Concept Lattices to Support Service Selection.&quot; Int. J. Web Service Res., 2006.'
 ---
 [Bibtex](https://dblp.org/rec/bib/journals/jwsr/AversanoBCPD06)
 

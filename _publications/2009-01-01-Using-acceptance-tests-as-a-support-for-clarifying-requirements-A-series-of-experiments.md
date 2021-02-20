@@ -6,7 +6,7 @@ excerpt: 'The Institution of Engineering and Technology ({IET}), London, UK, Sco
 date: 2009-01-01
 venue: 'Information &amp; Software Technology'
 paperurl: 'https://doi.org/10.1016/j.infsof.2008.01.007'
-citation: ' Filippo Ricca,  Marco Torchiano,  Massimiliano Di,  Mariano Ceccato,  Paolo Tonella, &quot;Using acceptance tests as a support for clarifying requirements: A series of experiments.&quot; Information &amp;amp; Software Technology, 2009.'
+citation: ' Filippo Ricca,  Marco Torchiano,  Massimiliano Di Penta,  Mariano Ceccato,  Paolo Tonella, &quot;Using acceptance tests as a support for clarifying requirements: A series of experiments.&quot; Information &amp;amp; Software Technology, 2009.'
 ---
 [Bibtex](https://dblp.org/rec/bib/journals/infsof/RiccaTPCT09)
 

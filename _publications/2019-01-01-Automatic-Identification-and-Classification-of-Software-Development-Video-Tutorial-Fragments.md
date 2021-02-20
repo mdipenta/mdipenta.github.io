@@ -6,7 +6,7 @@ excerpt: 'Institute of Electrical and Electronics Engineers Inc. (IEEE), Los Ala
 date: 2019-01-01
 venue: 'IEEE Trans. Software Eng.'
 paperurl: 'https://doi.org/10.1109/TSE.2017.2779479'
-citation: ' Luca Ponzanelli,  Gabriele Bavota,  Andrea Mocci,  Rocco Oliveto,  Massimiliano Di,  Sonia Haiduc,  Barbara Russo,  Michele Lanza, &quot;Automatic Identification and Classification of Software Development Video Tutorial Fragments.&quot; IEEE Trans. Software Eng., 2019.'
+citation: ' Luca Ponzanelli,  Gabriele Bavota,  Andrea Mocci,  Rocco Oliveto,  Massimiliano Di Penta,  Sonia Haiduc,  Barbara Russo,  Michele Lanza, &quot;Automatic Identification and Classification of Software Development Video Tutorial Fragments.&quot; IEEE Trans. Software Eng., 2019.'
 ---
 [Bibtex](https://dblp.org/rec/bib/journals/tse/PonzanelliBMOPH19)
 

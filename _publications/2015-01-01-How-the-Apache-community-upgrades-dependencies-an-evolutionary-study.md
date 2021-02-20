@@ -6,7 +6,7 @@ excerpt: 'Springer, New York, USA, Scopus ID: 2-s2.0-84940718612, Cited by: 30'
 date: 2015-01-01
 venue: 'Empirical Software Engineering'
 paperurl: 'https://doi.org/10.1007/s10664-014-9325-9'
-citation: ' Gabriele Bavota,  Gerardo Canfora,  Massimiliano Di,  Rocco Oliveto,  Sebastiano Panichella, &quot;How the Apache community upgrades dependencies: an evolutionary study.&quot; Empirical Software Engineering, 2015.'
+citation: ' Gabriele Bavota,  Gerardo Canfora,  Massimiliano Di Penta,  Rocco Oliveto,  Sebastiano Panichella, &quot;How the Apache community upgrades dependencies: an evolutionary study.&quot; Empirical Software Engineering, 2015.'
 ---
 [Bibtex](https://dblp.org/rec/bib/journals/ese/BavotaCPOP15)
 

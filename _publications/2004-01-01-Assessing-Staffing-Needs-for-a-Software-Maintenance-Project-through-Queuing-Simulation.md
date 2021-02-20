@@ -6,7 +6,7 @@ excerpt: 'Institute of Electrical and Electronics Engineers Inc. (IEEE), Los Ala
 date: 2004-01-01
 venue: 'IEEE Trans. Software Eng.'
 paperurl: 'https://doi.org/10.1109/TSE.2004.1265735'
-citation: ' Giuliano Antoniol,  Aniello Cimitile,  Giuseppe Di,  Massimiliano Di, &quot;Assessing Staffing Needs for a Software Maintenance Project through Queuing Simulation.&quot; IEEE Trans. Software Eng., 2004.'
+citation: ' Giuliano Antoniol,  Aniello Cimitile,  Giuseppe A. Di Lucca,  Massimiliano Di Penta, &quot;Assessing Staffing Needs for a Software Maintenance Project through Queuing Simulation.&quot; IEEE Trans. Software Eng., 2004.'
 ---
 [Bibtex](https://dblp.org/rec/bib/journals/tse/AntoniolCLP04)
 

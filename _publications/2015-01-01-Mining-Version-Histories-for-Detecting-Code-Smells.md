@@ -6,7 +6,7 @@ excerpt: 'Institute of Electrical and Electronics Engineers Inc. (IEEE), Los Ala
 date: 2015-01-01
 venue: 'IEEE Trans. Software Eng.'
 paperurl: 'https://doi.org/10.1109/TSE.2014.2372760'
-citation: ' Fabio Palomba,  Gabriele Bavota,  Massimiliano Di,  Rocco Oliveto,  Denys Poshyvanyk,  Andrea De, &quot;Mining Version Histories for Detecting Code Smells.&quot; IEEE Trans. Software Eng., 2015.'
+citation: ' Fabio Palomba,  Gabriele Bavota,  Massimiliano Di Penta,  Rocco Oliveto,  Denys Poshyvanyk,  Andrea De Lucia, &quot;Mining Version Histories for Detecting Code Smells.&quot; IEEE Trans. Software Eng., 2015.'
 ---
 [Bibtex](https://dblp.org/rec/bib/journals/tse/PalombaBPOPL15)
 

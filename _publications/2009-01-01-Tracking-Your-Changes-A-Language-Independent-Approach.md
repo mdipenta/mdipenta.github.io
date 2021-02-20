@@ -6,7 +6,7 @@ excerpt: 'Institute of Electrical and Electronics Engineers Inc. (IEEE), Los Ala
 date: 2009-01-01
 venue: 'IEEE Software'
 paperurl: 'https://doi.org/10.1109/MS.2009.26'
-citation: ' Gerardo Canfora,  Luigi Cerulo,  Massimiliano Di, &quot;Tracking Your Changes: A Language-Independent Approach.&quot; IEEE Software, 2009.'
+citation: ' Gerardo Canfora,  Luigi Cerulo,  Massimiliano Di Penta, &quot;Tracking Your Changes: A Language-Independent Approach.&quot; IEEE Software, 2009.'
 ---
 [Bibtex](https://dblp.org/rec/bib/journals/software/CanforaCP09)
 
