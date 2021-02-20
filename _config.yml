@@ -190,6 +190,9 @@ collections:
   journals:
     output: true
     permalink: /:collection/:path/
+  chapters:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -231,6 +234,15 @@ defaults:
       share: true
       comments: true
   # _journals
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _chapters
   - scope:
       path: ""
       type: publications

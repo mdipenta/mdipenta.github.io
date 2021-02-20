@@ -5,18 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-#{% if author.googlescholar %}
+{% if author.googlescholar %}
   You can also find my articles on <u><a
   href="{{author.googlescholar}}">my Google Scholar profile</a></u> or
   <u><a href="https://dblp.org/pid/d/MassimilianoDiPenta.html">DBLP Page</a></u>.
-#{% endif %}
+{% endif %}
 
 {% include base_path %}
 
 <ul>
-<li><a href="#journals"></a>Journals</li>
-<li><a href="#conferences"></a>Conferences</li>
-<li><a href="#chapters"></a>Book Chapters</li>
+<li><a href="#journals">Journal papers</a></li>
+<li><a href="#conferences">Conference papers</a></li>
+<li><a href="#chapters">Book Chapters</a></li>
 </ul>
 
 <hr/>
