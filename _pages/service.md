@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Service in the research community"
+title: "Service to the research community"
 permalink: /service/
 author_profile: true
 ---
