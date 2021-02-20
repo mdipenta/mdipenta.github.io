@@ -6,16 +6,17 @@ author_profile: true
 ---
 
 ---
-* [International Rankings](##International-Rankings)
-* [Most influential paper awards](##Most-influential-paper-awards)
-* [ACM SIGSOFT Distinguished Paper Awards and best paper awards](##ACM-SIGSOFT-Distinguished-Paper-Awards-and-best-paper-awards)
-* [Reviewing awards](##Reviewing-awards)
-* [Other awards](##Other-awards)
+* [International Rankings](#International-Rankings)
+* [Most influential paper awards](#Most-influential-paper-awards)
+* [ACM SIGSOFT Distinguished Paper Awards and best paper awards](#ACM-SIGSOFT-Distinguished-Paper-Awards-and-best-paper-awards)
+* [Reviewing awards](#Reviewing-awards)
+* [Other awards](#Other-awards)
 
 
 ## International Rankings
 * **Second-most productive senior researcher worldwide in software engineering:** Dimitra Karanatsiou, Yihao Li, Elvira-Maria Arvanitou, Nikolaos Misirlis, W. Eric Wong: A bibliometric assessment of software engineering scholars and institutions (2010-2017). Journal of Systems and Software 147: 246-261 (2019). [https://doi.org/10.1016/j.jss.2018.10.029](https://doi.org/10.1016/j.jss.2018.10.029)
 * **Among top 2% top cited worldwide researchers  of any field:** Ioannidis JPA, Baas J, Klavans R, Boyack KW (2019) A standardized citation metrics author database annotated for scientific field. PLoS Biol 17(8): e3000384. [https://doi.org/10.1371/journal.pbio.3000384](https://doi.org/10.1371/journal.pbio.3000384)
+* [List of top Computer Science Researchers in Italy and WorldWide](https://www.guide2research.com/scientists/IT)
 
 ## Most influential paper awards
 
