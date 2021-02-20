@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+#TEST
+
 Education
 ======
 * Laurea Degree in Computer Engineering, 1999
