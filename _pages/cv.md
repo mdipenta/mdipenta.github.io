@@ -18,16 +18,16 @@ Education
 Work experience
 ======
 * 2019-present: Full Professor
- * University of Sannio, Italy
+  * University of Sannio, Italy
 
 * 2011-2019: Associate Professor
- * University of Sannio, Italy
+  * University of Sannio, Italy
 
 * 2004-2011: Assistant Professor
  * University of Sannio, Italy
 
- * 2003-2004: Postdoc
- * University of Sannio, Italy
+* 2003-2004: Postdoc
+  * University of Sannio, Italy
 
 Research Interests
 ======
