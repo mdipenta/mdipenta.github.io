@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2015-01-01-User-reviews-matter-Tracking-crowdsourced-reviews-to-support-evolution-of-successful-apps
 excerpt: 'DOI: 10.1109/ICSM.2015.7332475, Scopus ID: 2-s2.0-84961566855, Cited by: 56'
 date: 2015-01-01
-venue: 'the proceedings of 2015 IEEE International Conference on Software Maintenance and Evolution, ICSME 2015, Bremen, Germany, September 29 - October 1, 2015'
+venue: '2015 IEEE International Conference on Software Maintenance and Evolution, ICSME 2015, Bremen, Germany, September 29 - October 1, 2015'
 paperurl: 'https://doi.org/10.1109/ICSM.2015.7332475'
-citation: ' Fabio Palomba,  Mario V&apos;asquez,  Gabriele Bavota,  Rocco Oliveto,  Massimiliano Di Penta,  Denys Poshyvanyk,  Andrea De Lucia, &quot;User reviews matter! Tracking crowdsourced reviews to support evolution of successful apps.&quot; the proceedings of 2015 IEEE International Conference on Software Maintenance and Evolution, ICSME 2015, Bremen, Germany, September 29 - October 1, 2015, 2015.'
+citation: ' Fabio Palomba,  Mario V&apos;asquez,  Gabriele Bavota,  Rocco Oliveto,  Massimiliano Di Penta,  Denys Poshyvanyk,  Andrea De Lucia, &quot;User reviews matter! Tracking crowdsourced reviews to support evolution of successful apps.&quot; 2015 IEEE International Conference on Software Maintenance and Evolution, ICSME 2015, Bremen, Germany, September 29 - October 1, 2015, 2015.'
 ---
 [Bibtex](https://dblp.org/rec/bib/conf/icsm/PalombaVBOPPL15)
 
