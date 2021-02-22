@@ -2,7 +2,6 @@
 title: "Recognizing Words from Source Code Identifiers Using Speech Recognition Techniques"
 collection: publications
 permalink: /publication/2010-01-01-Recognizing-Words-from-Source-Code-Identifiers-Using-Speech-Recognition-Techniques
-excerpt: 'DOI: 10.1109/CSMR.2010.31, Scopus ID: 2-s2.0-79952668060, Cited by: 38'
 date: 2010-01-01
 venue: '14th European Conference on Software Maintenance and Reengineering, CSMR 2010, 15-18 March 2010, Madrid, Spain'
 paperurl: 'https://doi.org/10.1109/CSMR.2010.31'

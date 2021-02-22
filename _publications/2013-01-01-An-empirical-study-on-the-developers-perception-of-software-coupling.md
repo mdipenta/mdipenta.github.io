@@ -2,7 +2,6 @@
 title: "An empirical study on the developers&apos; perception of software coupling"
 collection: publications
 permalink: /publication/2013-01-01-An-empirical-study-on-the-developers-perception-of-software-coupling
-excerpt: 'DOI: 10.1109/ICSE.2013.6606615, Scopus ID: 2-s2.0-84886384362, Cited by: 68'
 date: 2013-01-01
 venue: '35th International Conference on Software Engineering, ICSE &apos;13, San Francisco, CA, USA, May 18-26, 2013'
 paperurl: 'https://doi.org/10.1109/ICSE.2013.6606615'

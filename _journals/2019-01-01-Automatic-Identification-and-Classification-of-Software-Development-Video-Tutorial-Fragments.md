@@ -2,7 +2,6 @@
 title: "Automatic Identification and Classification of Software Development Video Tutorial Fragments"
 collection: journals
 permalink: /journals/2019-01-01-Automatic-Identification-and-Classification-of-Software-Development-Video-Tutorial-Fragments
-excerpt: 'Institute of Electrical and Electronics Engineers Inc. (IEEE), Los Alamitos, CA, USA, Scopus ID: 2-s2.0-85037627519, Cited by: 0'
 date: 2019-01-01
 venue: 'IEEE Trans. Software Eng.'
 paperurl: 'https://doi.org/10.1109/TSE.2017.2779479'

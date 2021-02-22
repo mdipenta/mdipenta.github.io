@@ -2,7 +2,6 @@
 title: "Search-Based Techniques for Optimizing Software Project Resource Allocation"
 collection: publications
 permalink: /publication/2004-01-01-Search-Based-Techniques-for-Optimizing-Software-Project-Resource-Allocation
-excerpt: 'DOI: 10.1007/978-3-540-24855-2\_162, Scopus ID: 2-s2.0-35048834669, Cited by: 17'
 date: 2004-01-01
 venue: 'Genetic and Evolutionary Computation - GECCO 2004, Genetic and Evolutionary Computation Conference, Seattle, WA, USA, June 26-30, 2004, Proceedings, Part II'
 paperurl: 'https://doi.org/10.1007/978-3-540-24855-2\_162'

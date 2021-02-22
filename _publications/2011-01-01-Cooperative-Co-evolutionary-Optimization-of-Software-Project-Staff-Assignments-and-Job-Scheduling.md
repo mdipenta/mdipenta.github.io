@@ -2,7 +2,6 @@
 title: "Cooperative Co-evolutionary Optimization of Software Project Staff Assignments and Job Scheduling"
 collection: publications
 permalink: /publication/2011-01-01-Cooperative-Co-evolutionary-Optimization-of-Software-Project-Staff-Assignments-and-Job-Scheduling
-excerpt: 'DOI: 10.1007/978-3-642-23716-4\_14, Scopus ID: 2-s2.0-80052888647, Cited by: 28'
 date: 2011-01-01
 venue: 'Search Based Software Engineering - Third International Symposium, SSBSE 2011, Szeged, Hungary, September 10-12, 2011. Proceedings'
 paperurl: 'https://doi.org/10.1007/978-3-642-23716-4\_14'

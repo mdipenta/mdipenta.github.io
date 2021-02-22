@@ -2,7 +2,6 @@
 title: "Migration of information systems in the Italian industry: A state of the practice survey"
 collection: journals
 permalink: /journals/2011-01-01-Migration-of-information-systems-in-the-Italian-industry-A-state-of-the-practice-survey
-excerpt: 'Association for Computer Machinery (ACM), New York, USA, Scopus ID: 2-s2.0-78049530128, Cited by: 20'
 date: 2011-01-01
 venue: 'Information &amp; Software Technology'
 paperurl: 'https://doi.org/10.1016/j.infsof.2010.08.002'

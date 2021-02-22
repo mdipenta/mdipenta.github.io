@@ -2,7 +2,6 @@
 title: "A Controlled Experiment on the Impact of the Object Constraint Language in UML-Based Maintenance"
 collection: publications
 permalink: /publication/2004-01-01-A-Controlled-Experiment-on-the-Impact-of-the-Object-Constraint-Language-in-UML-Based-Maintenance
-excerpt: 'DOI: 10.1109/ICSM.2004.1357823, Scopus ID: 2-s2.0-18044381923, Cited by: 16'
 date: 2004-01-01
 venue: '20th International Conference on Software Maintenance (ICSM 2004), 11-17 September 2004, Chicago, IL, USA'
 paperurl: 'https://doi.org/10.1109/ICSM.2004.1357823'

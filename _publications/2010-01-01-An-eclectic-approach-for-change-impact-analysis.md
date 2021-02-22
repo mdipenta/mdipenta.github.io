@@ -2,7 +2,6 @@
 title: "An eclectic approach for change impact analysis"
 collection: publications
 permalink: /publication/2010-01-01-An-eclectic-approach-for-change-impact-analysis
-excerpt: 'DOI: 10.1145/1810295.1810320, Scopus ID: 2-s2.0-77954718048, Cited by: 26'
 date: 2010-01-01
 venue: 'Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering - Volume 2, ICSE 2010, Cape Town, South Africa, 1-8 May 2010'
 paperurl: 'https://doi.org/10.1145/1810295.1810320'

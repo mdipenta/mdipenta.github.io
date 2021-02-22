@@ -2,7 +2,6 @@
 title: "MoMS: Multi-objective miniaturization of software"
 collection: publications
 permalink: /publication/2011-01-01-MoMS-Multi-objective-miniaturization-of-software
-excerpt: 'DOI: 10.1109/ICSM.2011.6080782, Scopus ID: 2-s2.0-83455214103, Cited by: 8'
 date: 2011-01-01
 venue: 'IEEE 27th International Conference on Software Maintenance, ICSM 2011, Williamsburg, VA, USA, September 25-30, 2011'
 paperurl: 'https://doi.org/10.1109/ICSM.2011.6080782'

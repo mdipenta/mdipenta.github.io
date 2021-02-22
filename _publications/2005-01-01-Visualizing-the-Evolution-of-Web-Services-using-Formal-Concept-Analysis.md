@@ -2,7 +2,6 @@
 title: "Visualizing the Evolution of Web Services using Formal Concept Analysis"
 collection: publications
 permalink: /publication/2005-01-01-Visualizing-the-Evolution-of-Web-Services-using-Formal-Concept-Analysis
-excerpt: 'DOI: 10.1109/IWPSE.2005.33, Scopus ID: 2-s2.0-33846529442, Cited by: 16'
 date: 2005-01-01
 venue: '8th International Workshop on Principles of Software Evolution (IWPSE 2005), 5-7 September 2005, Lisbon, Portugal'
 paperurl: 'https://doi.org/10.1109/IWPSE.2005.33'

@@ -2,7 +2,6 @@
 title: "Query-based configuration of text retrieval solutions for software engineering tasks"
 collection: publications
 permalink: /publication/2015-01-01-Query-based-configuration-of-text-retrieval-solutions-for-software-engineering-tasks
-excerpt: 'DOI: 10.1145/2786805.2786859, Scopus ID: 2-s2.0-84960414350, Cited by: 18'
 date: 2015-01-01
 venue: 'Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering, ESEC/FSE 2015, Bergamo, Italy, August 30 - September 4, 2015'
 paperurl: 'https://doi.org/10.1145/2786805.2786859'

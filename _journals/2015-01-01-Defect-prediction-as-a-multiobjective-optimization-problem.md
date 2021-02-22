@@ -2,7 +2,6 @@
 title: "Defect prediction as a multiobjective optimization problem"
 collection: journals
 permalink: /journals/2015-01-01-Defect-prediction-as-a-multiobjective-optimization-problem
-excerpt: 'Springer, Chichester, UK, Scopus ID: 2-s2.0-84928923706, Cited by: 30'
 date: 2015-01-01
 venue: 'Softw. Test., Verif. Reliab.'
 paperurl: 'https://doi.org/10.1002/stvr.1570'

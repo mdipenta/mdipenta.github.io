@@ -2,7 +2,6 @@
 title: "Linear Complexity Object-Oriented Similarity for Clone Detection and Software Evolution Analyses"
 collection: publications
 permalink: /publication/2004-01-01-Linear-Complexity-Object-Oriented-Similarity-for-Clone-Detection-and-Software-Evolution-Analyses
-excerpt: 'DOI: 10.1109/ICSM.2004.1357826, Scopus ID: 2-s2.0-18044382108, Cited by: 21'
 date: 2004-01-01
 venue: '20th International Conference on Software Maintenance (ICSM 2004), 11-17 September 2004, Chicago, IL, USA'
 paperurl: 'https://doi.org/10.1109/ICSM.2004.1357826'

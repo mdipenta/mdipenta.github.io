@@ -133,12 +133,13 @@ for pubsource in publist:
             md += """collection: """ +  publist[pubsource]["collection"]["name"]
 
             md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"]  + html_filename
-            
+
+            #Disabled notes
             note = False
-            if "note" in b.keys():
-                if len(str(b["note"])) > 5:
-                    md += "\nexcerpt: '" + html_escape(b["note"]) + "'"
-                    note = True
+            #if "note" in b.keys():
+            #    if len(str(b["note"])) > 5:
+            #        md += "\nexcerpt: '" + html_escape(b["note"]) + "'"
+            #        note = True
 
             md += "\ndate: " + str(pub_date) 
 

@@ -2,7 +2,6 @@
 title: "Combining quantitative and qualitative methods (when mining software data)"
 collection: chapters
 permalink: /chapters/2016-01-01-Combining-quantitative-and-qualitative-methods-when-mining-software-data
-excerpt: 'DOI: 10.1016/b978-0-12-804206-9.00038-6'
 date: 2016-01-01
 venue: 'Perspectives on Data Science for Software Engineering'
 paperurl: 'https://doi.org/10.1016/b978-0-12-804206-9.00038-6'

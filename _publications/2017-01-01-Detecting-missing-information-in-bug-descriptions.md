@@ -2,7 +2,6 @@
 title: "Detecting missing information in bug descriptions"
 collection: publications
 permalink: /publication/2017-01-01-Detecting-missing-information-in-bug-descriptions
-excerpt: 'DOI: 10.1145/3106237.3106285, Scopus ID: 2-s2.0-85030749569, Cited by: 17'
 date: 2017-01-01
 venue: 'Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering, ESEC/FSE 2017, Paderborn, Germany, September 4-8, 2017'
 paperurl: 'https://doi.org/10.1145/3106237.3106285'

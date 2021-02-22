@@ -2,7 +2,6 @@
 title: "Search-Based Techniques Applied to Optimization of Project Planning for a Massive Maintenance Project"
 collection: publications
 permalink: /publication/2005-01-01-Search-Based-Techniques-Applied-to-Optimization-of-Project-Planning-for-a-Massive-Maintenance-Project
-excerpt: 'DOI: 10.1109/ICSM.2005.79, Scopus ID: 2-s2.0-33646932705, Cited by: 63'
 date: 2005-01-01
 venue: '21st IEEE International Conference on Software Maintenance (ICSM 2005), 25-30 September 2005, Budapest, Hungary'
 paperurl: 'https://doi.org/10.1109/ICSM.2005.79'

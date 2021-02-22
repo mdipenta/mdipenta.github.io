@@ -2,7 +2,6 @@
 title: "Patterns of developers behaviour: A 1000-hour industrial study"
 collection: journals
 permalink: /journals/2017-01-01-Patterns-of-developers-behaviour-A-1000-hour-industrial-study
-excerpt: 'Springer, New York, USA, Scopus ID: 2-s2.0-85022015886, Cited by: 3'
 date: 2017-01-01
 venue: 'Journal of Systems and Software'
 paperurl: 'https://doi.org/10.1016/j.jss.2017.06.072'

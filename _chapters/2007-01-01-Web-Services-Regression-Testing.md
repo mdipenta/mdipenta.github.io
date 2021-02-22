@@ -2,7 +2,6 @@
 title: "Web Services Regression Testing"
 collection: chapters
 permalink: /chapters/2007-01-01-Web-Services-Regression-Testing
-excerpt: 'DOI: 10.1007/978-3-540-72912-9\_8, Scopus ID: 2-s2.0-55849083181, Cited by: 35'
 date: 2007-01-01
 venue: 'Test and Analysis of Web Services'
 paperurl: 'https://doi.org/10.1007/978-3-540-72912-9\_8'

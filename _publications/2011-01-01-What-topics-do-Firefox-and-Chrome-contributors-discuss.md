@@ -2,7 +2,6 @@
 title: "What topics do Firefox and Chrome contributors discuss?"
 collection: publications
 permalink: /publication/2011-01-01-What-topics-do-Firefox-and-Chrome-contributors-discuss
-excerpt: 'DOI: 10.1145/1985441.1985480, Scopus ID: 2-s2.0-79959270470, Cited by: 2'
 date: 2011-01-01
 venue: 'Proceedings of the 8th International Working Conference on Mining Software Repositories, MSR 2011 (Co-located with ICSE), Waikiki, Honolulu, HI, USA, May 21-28, 2011, Proceedings'
 paperurl: 'https://doi.org/10.1145/1985441.1985480'

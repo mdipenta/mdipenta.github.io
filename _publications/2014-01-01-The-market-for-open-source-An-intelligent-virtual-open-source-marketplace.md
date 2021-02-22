@@ -2,7 +2,6 @@
 title: "The market for open source: An intelligent virtual open source marketplace"
 collection: publications
 permalink: /publication/2014-01-01-The-market-for-open-source-An-intelligent-virtual-open-source-marketplace
-excerpt: 'DOI: 10.1109/CSMR-WCRE.2014.6747204, Scopus ID: 2-s2.0-84898457037, Cited by: 10'
 date: 2014-01-01
 venue: '2014 Software Evolution Week - IEEE Conference on Software Maintenance, Reengineering, and Reverse Engineering, CSMR-WCRE 2014, Antwerp, Belgium, February 3-6, 2014'
 paperurl: 'https://doi.org/10.1109/CSMR-WCRE.2014.6747204'

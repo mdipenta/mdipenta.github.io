@@ -2,7 +2,6 @@
 title: "COCONUT: COde COmprehension Nurturant Using Traceability"
 collection: publications
 permalink: /publication/2006-01-01-COCONUT-COde-COmprehension-Nurturant-Using-Traceability
-excerpt: 'DOI: 10.1109/ICSM.2006.19, Scopus ID: 2-s2.0-34547369079, Cited by: 6'
 date: 2006-01-01
 venue: '22nd IEEE International Conference on Software Maintenance (ICSM 2006), 24-27 September 2006, Philadelphia, Pennsylvania, USA'
 paperurl: 'https://doi.org/10.1109/ICSM.2006.19'

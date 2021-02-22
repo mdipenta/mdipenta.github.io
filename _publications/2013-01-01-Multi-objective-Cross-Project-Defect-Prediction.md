@@ -2,7 +2,6 @@
 title: "Multi-objective Cross-Project Defect Prediction"
 collection: publications
 permalink: /publication/2013-01-01-Multi-objective-Cross-Project-Defect-Prediction
-excerpt: 'DOI: 10.1109/ICST.2013.38, Scopus ID: 2-s2.0-84883427163, Cited by: 77'
 date: 2013-01-01
 venue: 'Sixth IEEE International Conference on Software Testing, Verification and Validation, ICST 2013, Luxembourg, Luxembourg, March 18-22, 2013'
 paperurl: 'https://doi.org/10.1109/ICST.2013.38'

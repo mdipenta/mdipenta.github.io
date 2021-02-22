@@ -2,7 +2,6 @@
 title: "SCAN: an approach to label and relate execution trace segments"
 collection: journals
 permalink: /journals/2014-01-01-SCAN-an-approach-to-label-and-relate-execution-trace-segments
-excerpt: 'Springer, Chichester, UK, Scopus ID: 2-s2.0-84980010110, Cited by: 4'
 date: 2014-01-01
 venue: 'Journal of Software: Evolution and Process'
 paperurl: 'https://doi.org/10.1002/smr.1695'

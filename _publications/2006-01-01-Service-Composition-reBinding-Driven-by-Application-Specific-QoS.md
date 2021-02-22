@@ -2,7 +2,6 @@
 title: "Service Composition (re)Binding Driven by Application-Specific QoS"
 collection: publications
 permalink: /publication/2006-01-01-Service-Composition-reBinding-Driven-by-Application-Specific-QoS
-excerpt: 'DOI: 10.1007/11948148\_12, Scopus ID: 2-s2.0-77049113250, Cited by: 44'
 date: 2006-01-01
 venue: 'Service-Oriented Computing - ICSOC 2006, 4th International Conference, Chicago, IL, USA, December 4-7, 2006, Proceedings'
 paperurl: 'https://doi.org/10.1007/11948148\_12'

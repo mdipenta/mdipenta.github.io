@@ -2,7 +2,6 @@
 title: "Object-oriented design patterns recovery"
 collection: journals
 permalink: /journals/2001-01-01-Object-oriented-design-patterns-recovery
-excerpt: 'Institute of Electrical and Electronics Engineers Inc. (IEEE), Los Alamitos, CA, USA, Scopus ID: 2-s2.0-0035889368, Cited by: 62'
 date: 2001-01-01
 venue: 'Journal of Systems and Software'
 paperurl: 'https://doi.org/10.1016/S0164-1212(01)00061-9'

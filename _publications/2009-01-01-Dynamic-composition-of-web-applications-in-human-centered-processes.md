@@ -2,7 +2,6 @@
 title: "Dynamic composition of web applications in human-centered processes"
 collection: publications
 permalink: /publication/2009-01-01-Dynamic-composition-of-web-applications-in-human-centered-processes
-excerpt: 'DOI: 10.1109/PESOS.2009.5068819, Scopus ID: 2-s2.0-70349914379, Cited by: 2'
 date: 2009-01-01
 venue: 'International ICSE Workshop on Principles of Engineering Service-Oriented Systems, PESOS 2009, 18-19 May 2009, Vancouver, BC, Canada'
 paperurl: 'https://doi.org/10.1109/PESOS.2009.5068819'

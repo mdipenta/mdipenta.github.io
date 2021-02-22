@@ -2,7 +2,6 @@
 title: "A family of experiments to assess the effectiveness and efficiency of source code obfuscation techniques"
 collection: journals
 permalink: /journals/2014-01-01-A-family-of-experiments-to-assess-the-effectiveness-and-efficiency-of-source-code-obfuscation-techniques
-excerpt: 'Springer, New York, USA, Scopus ID: 2-s2.0-84901823031, Cited by: 45'
 date: 2014-01-01
 venue: 'Empirical Software Engineering'
 paperurl: 'https://doi.org/10.1007/s10664-013-9248-x'

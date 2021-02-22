@@ -2,7 +2,6 @@
 title: "YODA: young and newcomer developer assistant"
 collection: publications
 permalink: /publication/2013-01-01-YODA-young-and-newcomer-developer-assistant
-excerpt: 'DOI: 10.1109/ICSE.2013.6606710, Scopus ID: 2-s2.0-84886443382, Cited by: 3'
 date: 2013-01-01
 venue: '35th International Conference on Software Engineering, ICSE &apos;13, San Francisco, CA, USA, May 18-26, 2013'
 paperurl: 'https://doi.org/10.1109/ICSE.2013.6606710'

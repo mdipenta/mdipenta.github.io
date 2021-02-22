@@ -2,7 +2,6 @@
 title: "An Approach for Reverse Engineering of Web-Based Applications"
 collection: publications
 permalink: /publication/2001-01-01-An-Approach-for-Reverse-Engineering-of-Web-Based-Applications
-excerpt: 'DOI: 10.1109/WCRE.2001.957827, Scopus ID: 2-s2.0-0034780666, Cited by: 40'
 date: 2001-01-01
 venue: 'Proceedings of the Eighth Working Conference on Reverse Engineering, WCRE&apos;01, Stuttgart, Germany, October 2-5, 2001'
 paperurl: 'https://doi.org/10.1109/WCRE.2001.957827'

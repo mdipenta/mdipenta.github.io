@@ -2,7 +2,6 @@
 title: "Improving Comprehensibility of Source Code via Traceability Information: a Controlled Experiment"
 collection: publications
 permalink: /publication/2006-01-01-Improving-Comprehensibility-of-Source-Code-via-Traceability-Information-a-Controlled-Experiment
-excerpt: 'DOI: 10.1109/ICPC.2006.28, Scopus ID: 2-s2.0-33845414121, Cited by: 32'
 date: 2006-01-01
 venue: '14th International Conference on Program Comprehension (ICPC 2006), 14-16 June 2006, Athens, Greece'
 paperurl: 'https://doi.org/10.1109/ICPC.2006.28'

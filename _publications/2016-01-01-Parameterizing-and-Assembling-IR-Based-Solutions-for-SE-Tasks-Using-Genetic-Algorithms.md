@@ -2,7 +2,6 @@
 title: "Parameterizing and Assembling IR-Based Solutions for SE Tasks Using Genetic Algorithms"
 collection: publications
 permalink: /publication/2016-01-01-Parameterizing-and-Assembling-IR-Based-Solutions-for-SE-Tasks-Using-Genetic-Algorithms
-excerpt: 'DOI: 10.1109/SANER.2016.97'
 date: 2016-01-01
 venue: 'IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering, SANER 2016, Suita, Osaka, Japan, March 14-18, 2016 - Volume 1'
 paperurl: 'https://doi.org/10.1109/SANER.2016.97'
