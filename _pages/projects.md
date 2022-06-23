@@ -7,8 +7,8 @@ author_profile: true
 
 ## Current
 
-* **ICT-50-2020 COSMOS** (DevOps for Complex Cyber-physical Systems): Role: PI for the University of Sannio
-
+* **ICT-50-2020 COSMOS** (DevOps for Complex Cyber-physical Systems). Role: PI for the University of Sannio
+* **PRIN 2021 EMELIOT** (Engineered MachinE Learning-intensive IoT systems). Role: PI for the University of Sannio
 
 
 ## Past

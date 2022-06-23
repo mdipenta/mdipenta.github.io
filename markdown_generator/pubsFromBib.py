@@ -160,6 +160,7 @@ for pubsource in publist:
             #if note:
             #    md += "\n" + html_escape(b["note"]) + "\n"
 
+            btex=""
             if "biburl" in b.keys():
                 btex=b["biburl"]
             if btex:
